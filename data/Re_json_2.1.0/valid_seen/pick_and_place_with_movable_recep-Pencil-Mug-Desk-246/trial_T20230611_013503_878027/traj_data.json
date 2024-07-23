@@ -1,0 +1,4441 @@
+{
+    "images": [
+        {
+            "high_idx": 0,
+            "image_name": "000000000.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000001.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000002.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000003.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000004.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000005.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000006.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000007.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000008.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000009.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000010.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000011.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000012.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000013.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000014.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000015.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000016.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000017.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000018.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000019.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000020.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000021.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000022.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000023.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000024.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000025.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000026.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000027.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000028.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000029.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000030.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000031.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000032.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000033.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000034.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000035.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000036.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000037.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000038.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000039.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000040.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000041.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000042.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000043.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000044.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000045.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000046.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000047.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000048.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000049.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000050.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000051.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000052.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000053.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000054.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000055.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000056.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000057.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000058.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000059.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000060.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000061.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000062.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000063.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000064.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000065.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000066.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000067.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000068.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000069.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000070.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000071.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000072.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000073.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000074.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000075.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000076.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000077.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000078.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000079.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000080.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000081.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000082.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000083.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000084.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000085.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000086.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000087.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000088.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000089.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000090.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000091.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000092.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000093.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000094.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000095.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000096.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000097.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000098.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000099.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000100.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000101.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000102.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000103.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000104.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000105.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000106.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000107.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000108.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000109.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000110.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000111.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000112.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000113.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000114.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000115.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000116.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000117.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000118.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000119.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000120.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000121.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000122.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000123.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000124.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000125.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000126.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000127.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000128.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000129.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000130.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000131.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000132.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000133.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000134.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000135.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000136.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000137.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000138.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000139.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000140.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000141.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000142.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000143.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000144.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000145.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000146.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000147.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000148.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000149.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000150.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000151.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000152.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000153.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000154.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000155.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000156.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000157.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000158.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000159.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000160.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000161.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000162.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000163.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000164.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000165.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000166.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000167.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000168.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000169.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000170.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000171.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000172.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000173.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000174.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000175.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000176.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000177.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000178.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000179.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000180.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000181.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000182.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000183.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000184.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000185.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000186.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000187.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000188.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000189.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000190.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000191.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000192.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000193.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000194.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000195.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000196.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000197.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000198.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000199.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000200.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000201.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000202.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000203.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000204.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000205.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000206.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000207.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000208.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000209.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000210.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000211.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000212.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000213.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000214.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000215.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000216.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000217.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000218.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000219.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000220.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000221.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000222.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000223.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000224.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000225.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000226.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000227.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000228.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000229.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000230.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000231.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000232.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000233.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000234.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000235.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000236.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000237.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000238.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000239.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000240.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000241.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000242.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000243.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000244.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000245.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000246.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000247.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000248.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000249.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000250.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000251.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000252.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000253.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000254.png",
+            "low_idx": 58
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000255.png",
+            "low_idx": 58
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000256.png",
+            "low_idx": 59
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000257.png",
+            "low_idx": 59
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000258.png",
+            "low_idx": 60
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000259.png",
+            "low_idx": 60
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000260.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000261.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000262.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000263.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000264.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000265.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000266.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000267.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000268.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000269.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000270.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000271.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000272.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000273.png",
+            "low_idx": 63
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000274.png",
+            "low_idx": 63
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000275.png",
+            "low_idx": 64
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000276.png",
+            "low_idx": 64
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000277.png",
+            "low_idx": 65
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000278.png",
+            "low_idx": 65
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000279.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000280.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000281.png",
+            "low_idx": 67
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000282.png",
+            "low_idx": 67
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000283.png",
+            "low_idx": 68
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000284.png",
+            "low_idx": 68
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000285.png",
+            "low_idx": 69
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000286.png",
+            "low_idx": 69
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000287.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000288.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000289.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000290.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000291.png",
+            "low_idx": 72
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000292.png",
+            "low_idx": 72
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000293.png",
+            "low_idx": 73
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000294.png",
+            "low_idx": 73
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000295.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000296.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000297.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000298.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000299.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000300.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000301.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000302.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000303.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000304.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000305.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000306.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000307.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000308.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000309.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000310.png",
+            "low_idx": 77
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000311.png",
+            "low_idx": 77
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000312.png",
+            "low_idx": 78
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000313.png",
+            "low_idx": 78
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000314.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000315.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000316.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000317.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000318.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000319.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000320.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000321.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000322.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000323.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000324.png",
+            "low_idx": 79
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000325.png",
+            "low_idx": 80
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000326.png",
+            "low_idx": 80
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000327.png",
+            "low_idx": 81
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000328.png",
+            "low_idx": 81
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000329.png",
+            "low_idx": 82
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000330.png",
+            "low_idx": 82
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000331.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000332.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000333.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000334.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000335.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000336.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000337.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000338.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000339.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000340.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000341.png",
+            "low_idx": 83
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000342.png",
+            "low_idx": 84
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000343.png",
+            "low_idx": 84
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000344.png",
+            "low_idx": 85
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000345.png",
+            "low_idx": 85
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000346.png",
+            "low_idx": 86
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000347.png",
+            "low_idx": 86
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000348.png",
+            "low_idx": 87
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000349.png",
+            "low_idx": 87
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000350.png",
+            "low_idx": 88
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000351.png",
+            "low_idx": 88
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000352.png",
+            "low_idx": 89
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000353.png",
+            "low_idx": 89
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000354.png",
+            "low_idx": 90
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000355.png",
+            "low_idx": 90
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000356.png",
+            "low_idx": 91
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000357.png",
+            "low_idx": 91
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000358.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000359.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000360.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000361.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000362.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000363.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000364.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000365.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000366.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000367.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000368.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000369.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000370.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000371.png",
+            "low_idx": 92
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000372.png",
+            "low_idx": 92
+        }
+    ],
+    "pddl_params": {
+        "mrecep_target": "Mug",
+        "object_sliced": false,
+        "object_target": "Pencil",
+        "parent_target": "Desk",
+        "toggle_target": ""
+    },
+    "plan": {
+        "high_pddl": [
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "bed"
+                    ]
+                },
+                "high_idx": 0,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|12|13|1|45"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": [
+                        "pencil"
+                    ]
+                },
+                "high_idx": 1,
+                "planner_action": {
+                    "action": "PickupObject",
+                    "forceVisible": true,
+                    "objectId": "Pencil|+03.88|+00.66|+03.36",
+                    "receptacleObjectId": "Bed|+08.41|00.00|+03.31"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "mug"
+                    ]
+                },
+                "high_idx": 2,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|12|14|1|45"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": [
+                        "pencil",
+                        "mug"
+                    ]
+                },
+                "high_idx": 3,
+                "planner_action": {
+                    "action": "PutObject",
+                    "forceVisible": true,
+                    "objectId": "Pencil|+03.88|+00.66|+03.36",
+                    "receptacleObjectId": "Mug|+03.88|+00.65|+03.56"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": [
+                        "mug"
+                    ]
+                },
+                "high_idx": 4,
+                "planner_action": {
+                    "action": "PickupObject",
+                    "forceVisible": true,
+                    "objectId": "Mug|+03.88|+00.65|+03.56",
+                    "receptacleObjectId": "Bed|+08.41|00.00|+03.31"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "desk"
+                    ]
+                },
+                "high_idx": 5,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|23|13|0|45"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": [
+                        "mug",
+                        "desk"
+                    ]
+                },
+                "high_idx": 6,
+                "planner_action": {
+                    "action": "PutObject",
+                    "forceVisible": true,
+                    "objectId": "Mug|+03.88|+00.65|+03.56",
+                    "receptacleObjectId": "Desk|+04.96|+00.01|+05.17"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "NoOp",
+                    "args": []
+                },
+                "high_idx": 7,
+                "planner_action": {
+                    "action": "End",
+                    "value": 1
+                }
+            }
+        ],
+        "low_actions": [
+            {
+                "api_action": {
+                    "action": "LookDown"
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "Pencil|+03.88|+00.66|+03.36"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            133,
+                            153,
+                            146,
+                            153
+                        ],
+                        "mask": [
+                            [
+                                46033,
+                                14
+                            ]
+                        ],
+                        "point": [
+                            139,
+                            153
+                        ]
+                    }
+                },
+                "high_idx": 1
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "PutObject",
+                    "forceAction": true,
+                    "objectId": "Mug|+03.88|+00.65|+03.56",
+                    "placeStationary": true
+                },
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": {
+                        "bbox": [
+                            137,
+                            141,
+                            147,
+                            151
+                        ],
+                        "mask": [
+                            [
+                                42442,
+                                1
+                            ],
+                            [
+                                42739,
+                                7
+                            ],
+                            [
+                                43038,
+                                9
+                            ],
+                            [
+                                43337,
+                                11
+                            ],
+                            [
+                                43637,
+                                1
+                            ],
+                            [
+                                43644,
+                                4
+                            ],
+                            [
+                                43937,
+                                1
+                            ],
+                            [
+                                43946,
+                                2
+                            ],
+                            [
+                                44237,
+                                1
+                            ],
+                            [
+                                44246,
+                                2
+                            ],
+                            [
+                                44537,
+                                3
+                            ],
+                            [
+                                44544,
+                                3
+                            ],
+                            [
+                                44838,
+                                9
+                            ],
+                            [
+                                45139,
+                                8
+                            ],
+                            [
+                                45441,
+                                6
+                            ]
+                        ],
+                        "point": [
+                            142,
+                            144
+                        ]
+                    }
+                },
+                "high_idx": 3
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "Mug|+03.88|+00.65|+03.56"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            137,
+                            141,
+                            147,
+                            151
+                        ],
+                        "mask": [
+                            [
+                                42442,
+                                1
+                            ],
+                            [
+                                42739,
+                                4
+                            ],
+                            [
+                                42744,
+                                2
+                            ],
+                            [
+                                43038,
+                                5
+                            ],
+                            [
+                                43044,
+                                3
+                            ],
+                            [
+                                43337,
+                                6
+                            ],
+                            [
+                                43344,
+                                4
+                            ],
+                            [
+                                43637,
+                                1
+                            ],
+                            [
+                                43644,
+                                4
+                            ],
+                            [
+                                43937,
+                                1
+                            ],
+                            [
+                                43946,
+                                2
+                            ],
+                            [
+                                44237,
+                                1
+                            ],
+                            [
+                                44246,
+                                2
+                            ],
+                            [
+                                44537,
+                                3
+                            ],
+                            [
+                                44544,
+                                3
+                            ],
+                            [
+                                44838,
+                                9
+                            ],
+                            [
+                                45139,
+                                8
+                            ],
+                            [
+                                45441,
+                                6
+                            ]
+                        ],
+                        "point": [
+                            142,
+                            144
+                        ]
+                    }
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "PutObject",
+                    "forceAction": true,
+                    "objectId": "Desk|+04.96|+00.01|+05.17",
+                    "placeStationary": true
+                },
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": {
+                        "bbox": [
+                            15,
+                            152,
+                            109,
+                            299
+                        ],
+                        "mask": [
+                            [
+                                45615,
+                                52
+                            ],
+                            [
+                                45993,
+                                8
+                            ],
+                            [
+                                46293,
+                                8
+                            ],
+                            [
+                                46592,
+                                9
+                            ],
+                            [
+                                46892,
+                                9
+                            ],
+                            [
+                                47191,
+                                10
+                            ],
+                            [
+                                47491,
+                                9
+                            ],
+                            [
+                                47791,
+                                9
+                            ],
+                            [
+                                48090,
+                                10
+                            ],
+                            [
+                                48390,
+                                9
+                            ],
+                            [
+                                48690,
+                                10
+                            ],
+                            [
+                                48989,
+                                11
+                            ],
+                            [
+                                49289,
+                                11
+                            ],
+                            [
+                                49588,
+                                13
+                            ],
+                            [
+                                49888,
+                                13
+                            ],
+                            [
+                                50188,
+                                13
+                            ],
+                            [
+                                50487,
+                                15
+                            ],
+                            [
+                                50787,
+                                15
+                            ],
+                            [
+                                51087,
+                                15
+                            ],
+                            [
+                                51386,
+                                17
+                            ],
+                            [
+                                51686,
+                                17
+                            ],
+                            [
+                                51985,
+                                18
+                            ],
+                            [
+                                52285,
+                                19
+                            ],
+                            [
+                                52585,
+                                19
+                            ],
+                            [
+                                52884,
+                                20
+                            ],
+                            [
+                                53184,
+                                13
+                            ],
+                            [
+                                53198,
+                                7
+                            ],
+                            [
+                                53484,
+                                12
+                            ],
+                            [
+                                53498,
+                                7
+                            ],
+                            [
+                                53783,
+                                13
+                            ],
+                            [
+                                53799,
+                                6
+                            ],
+                            [
+                                54083,
+                                13
+                            ],
+                            [
+                                54099,
+                                7
+                            ],
+                            [
+                                54382,
+                                13
+                            ],
+                            [
+                                54399,
+                                7
+                            ],
+                            [
+                                54682,
+                                13
+                            ],
+                            [
+                                54700,
+                                6
+                            ],
+                            [
+                                54982,
+                                13
+                            ],
+                            [
+                                55000,
+                                7
+                            ],
+                            [
+                                55281,
+                                13
+                            ],
+                            [
+                                55301,
+                                6
+                            ],
+                            [
+                                55581,
+                                13
+                            ],
+                            [
+                                55601,
+                                6
+                            ],
+                            [
+                                55881,
+                                13
+                            ],
+                            [
+                                55902,
+                                6
+                            ],
+                            [
+                                56180,
+                                13
+                            ],
+                            [
+                                56202,
+                                6
+                            ],
+                            [
+                                56480,
+                                13
+                            ],
+                            [
+                                56502,
+                                6
+                            ],
+                            [
+                                56779,
+                                14
+                            ],
+                            [
+                                56803,
+                                6
+                            ],
+                            [
+                                57079,
+                                14
+                            ],
+                            [
+                                57103,
+                                6
+                            ],
+                            [
+                                57379,
+                                13
+                            ],
+                            [
+                                57404,
+                                5
+                            ],
+                            [
+                                57678,
+                                14
+                            ],
+                            [
+                                57704,
+                                6
+                            ],
+                            [
+                                57978,
+                                14
+                            ],
+                            [
+                                58004,
+                                5
+                            ],
+                            [
+                                58278,
+                                13
+                            ],
+                            [
+                                58305,
+                                4
+                            ],
+                            [
+                                58577,
+                                14
+                            ],
+                            [
+                                58605,
+                                4
+                            ],
+                            [
+                                58877,
+                                14
+                            ],
+                            [
+                                58906,
+                                3
+                            ],
+                            [
+                                59177,
+                                13
+                            ],
+                            [
+                                59206,
+                                3
+                            ],
+                            [
+                                59476,
+                                14
+                            ],
+                            [
+                                59506,
+                                2
+                            ],
+                            [
+                                59776,
+                                14
+                            ],
+                            [
+                                59807,
+                                1
+                            ],
+                            [
+                                60075,
+                                14
+                            ],
+                            [
+                                60107,
+                                1
+                            ],
+                            [
+                                60375,
+                                14
+                            ],
+                            [
+                                60675,
+                                8
+                            ],
+                            [
+                                60686,
+                                3
+                            ],
+                            [
+                                60974,
+                                8
+                            ],
+                            [
+                                60987,
+                                2
+                            ],
+                            [
+                                61274,
+                                8
+                            ],
+                            [
+                                61287,
+                                1
+                            ],
+                            [
+                                61574,
+                                7
+                            ],
+                            [
+                                61587,
+                                1
+                            ],
+                            [
+                                61873,
+                                8
+                            ],
+                            [
+                                61887,
+                                1
+                            ],
+                            [
+                                62173,
+                                7
+                            ],
+                            [
+                                62472,
+                                8
+                            ],
+                            [
+                                62772,
+                                7
+                            ],
+                            [
+                                63072,
+                                7
+                            ],
+                            [
+                                63371,
+                                8
+                            ],
+                            [
+                                63671,
+                                7
+                            ],
+                            [
+                                63971,
+                                7
+                            ],
+                            [
+                                64270,
+                                8
+                            ],
+                            [
+                                64570,
+                                7
+                            ],
+                            [
+                                64869,
+                                8
+                            ],
+                            [
+                                65169,
+                                8
+                            ],
+                            [
+                                65469,
+                                7
+                            ],
+                            [
+                                65768,
+                                8
+                            ],
+                            [
+                                66068,
+                                8
+                            ],
+                            [
+                                66368,
+                                7
+                            ],
+                            [
+                                66667,
+                                8
+                            ],
+                            [
+                                66967,
+                                8
+                            ],
+                            [
+                                67266,
+                                8
+                            ],
+                            [
+                                67566,
+                                8
+                            ],
+                            [
+                                67866,
+                                8
+                            ],
+                            [
+                                68165,
+                                8
+                            ],
+                            [
+                                68465,
+                                8
+                            ],
+                            [
+                                68765,
+                                8
+                            ],
+                            [
+                                69064,
+                                8
+                            ],
+                            [
+                                69364,
+                                8
+                            ],
+                            [
+                                69663,
+                                9
+                            ],
+                            [
+                                69963,
+                                8
+                            ],
+                            [
+                                70263,
+                                8
+                            ],
+                            [
+                                70562,
+                                9
+                            ],
+                            [
+                                70862,
+                                8
+                            ],
+                            [
+                                71162,
+                                8
+                            ],
+                            [
+                                71461,
+                                9
+                            ],
+                            [
+                                71761,
+                                8
+                            ],
+                            [
+                                72060,
+                                9
+                            ],
+                            [
+                                72360,
+                                9
+                            ],
+                            [
+                                72660,
+                                8
+                            ],
+                            [
+                                72959,
+                                9
+                            ],
+                            [
+                                73259,
+                                9
+                            ],
+                            [
+                                73559,
+                                8
+                            ],
+                            [
+                                73858,
+                                9
+                            ],
+                            [
+                                74158,
+                                9
+                            ],
+                            [
+                                74457,
+                                9
+                            ],
+                            [
+                                74757,
+                                9
+                            ],
+                            [
+                                75057,
+                                9
+                            ],
+                            [
+                                75356,
+                                9
+                            ],
+                            [
+                                75656,
+                                9
+                            ],
+                            [
+                                75956,
+                                9
+                            ],
+                            [
+                                76255,
+                                9
+                            ],
+                            [
+                                76555,
+                                9
+                            ],
+                            [
+                                76855,
+                                9
+                            ],
+                            [
+                                77154,
+                                9
+                            ],
+                            [
+                                77454,
+                                9
+                            ],
+                            [
+                                77753,
+                                10
+                            ],
+                            [
+                                78053,
+                                9
+                            ],
+                            [
+                                78353,
+                                9
+                            ],
+                            [
+                                78652,
+                                10
+                            ],
+                            [
+                                78952,
+                                9
+                            ],
+                            [
+                                79252,
+                                9
+                            ],
+                            [
+                                79551,
+                                10
+                            ],
+                            [
+                                79851,
+                                9
+                            ],
+                            [
+                                80150,
+                                10
+                            ],
+                            [
+                                80450,
+                                10
+                            ],
+                            [
+                                80750,
+                                9
+                            ],
+                            [
+                                81049,
+                                10
+                            ],
+                            [
+                                81349,
+                                10
+                            ],
+                            [
+                                81649,
+                                9
+                            ],
+                            [
+                                81948,
+                                10
+                            ],
+                            [
+                                82248,
+                                10
+                            ],
+                            [
+                                82547,
+                                10
+                            ],
+                            [
+                                82847,
+                                10
+                            ],
+                            [
+                                83147,
+                                10
+                            ],
+                            [
+                                83446,
+                                10
+                            ],
+                            [
+                                83746,
+                                10
+                            ],
+                            [
+                                84046,
+                                10
+                            ],
+                            [
+                                84345,
+                                10
+                            ],
+                            [
+                                84645,
+                                10
+                            ],
+                            [
+                                84944,
+                                11
+                            ],
+                            [
+                                85244,
+                                10
+                            ],
+                            [
+                                85544,
+                                10
+                            ],
+                            [
+                                85843,
+                                11
+                            ],
+                            [
+                                86143,
+                                10
+                            ],
+                            [
+                                86443,
+                                10
+                            ],
+                            [
+                                86742,
+                                11
+                            ],
+                            [
+                                87042,
+                                10
+                            ],
+                            [
+                                87341,
+                                11
+                            ],
+                            [
+                                87641,
+                                11
+                            ],
+                            [
+                                87941,
+                                10
+                            ],
+                            [
+                                88240,
+                                11
+                            ],
+                            [
+                                88540,
+                                11
+                            ],
+                            [
+                                88840,
+                                10
+                            ],
+                            [
+                                89139,
+                                11
+                            ],
+                            [
+                                89439,
+                                11
+                            ],
+                            [
+                                89738,
+                                11
+                            ]
+                        ],
+                        "point": [
+                            65,
+                            227
+                        ]
+                    }
+                },
+                "high_idx": 6
+            }
+        ]
+    },
+    "scene": {
+        "dirty_and_empty": false,
+        "floor_plan": "FloorPlan246",
+        "init_action": {
+            "action": "TeleportFull",
+            "horizon": 30,
+            "position": {
+                "x": 4.5,
+                "y": 0.9069997072219849,
+                "z": -1.5
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "standing": true
+        },
+        "object_poses": [
+            {
+                "objectName": "Pencil_6",
+                "position": {
+                    "x": 1.817059874534607,
+                    "y": 0.7315906286239624,
+                    "z": -1.1622501611709595
+                },
+                "rotation": {
+                    "x": 0.29953011870384216,
+                    "y": 359.82867431640625,
+                    "z": 359.9465026855469
+                }
+            },
+            {
+                "objectName": "Pencil_6",
+                "position": {
+                    "x": 3.877425193786621,
+                    "y": 0.6591734886169434,
+                    "z": 3.3625059127807617
+                },
+                "rotation": {
+                    "x": 0.06957700848579407,
+                    "y": 180.0301055908203,
+                    "z": 0.026818636804819107
+                }
+            },
+            {
+                "objectName": "Desk",
+                "position": {
+                    "x": 4.900479316711426,
+                    "y": 0.01533055305480957,
+                    "z": 5.158483982086182
+                },
+                "rotation": {
+                    "x": 359.9779052734375,
+                    "y": 90.02698516845703,
+                    "z": 359.80950927734375
+                }
+            },
+            {
+                "objectName": "Chair_204_2 (1)",
+                "position": {
+                    "x": 5.250998497009277,
+                    "y": -0.007890820503234863,
+                    "z": 2.674013614654541
+                },
+                "rotation": {
+                    "x": -0.0014550837222486734,
+                    "y": 270.00006103515625,
+                    "z": 0.10637001693248749
+                }
+            },
+            {
+                "objectName": "Chair_204_2 (2)",
+                "position": {
+                    "x": 2.46199631690979,
+                    "y": -0.007890403270721436,
+                    "z": 2.675990581512451
+                },
+                "rotation": {
+                    "x": -0.001468150527216494,
+                    "y": 270.00042724609375,
+                    "z": 0.10632236301898956
+                }
+            },
+            {
+                "objectName": "Desk",
+                "position": {
+                    "x": 4.959418296813965,
+                    "y": 0.0053021907806396484,
+                    "z": 5.165563583374023
+                },
+                "rotation": {
+                    "x": 0.8471136689186096,
+                    "y": 90.40978240966797,
+                    "z": 0.030897067859768867
+                }
+            },
+            {
+                "objectName": "Box_1",
+                "position": {
+                    "x": 1.1182295083999634,
+                    "y": 0.9195126891136169,
+                    "z": -1.1633574962615967
+                },
+                "rotation": {
+                    "x": 359.9465026855469,
+                    "y": 269.8289489746094,
+                    "z": 359.7004699707031
+                }
+            },
+            {
+                "objectName": "Box_10",
+                "position": {
+                    "x": 5.648270606994629,
+                    "y": 0.30115240812301636,
+                    "z": 3.926914930343628
+                },
+                "rotation": {
+                    "x": 0.056803710758686066,
+                    "y": -6.091615796322003e-05,
+                    "z": 359.97589111328125
+                }
+            },
+            {
+                "objectName": "Bed_860b294e (1)",
+                "position": {
+                    "x": 8.410144805908203,
+                    "y": -0.0017997920513153076,
+                    "z": 3.3091776371002197
+                },
+                "rotation": {
+                    "x": 0.06957700848579407,
+                    "y": 180.0301055908203,
+                    "z": 0.026818636804819107
+                }
+            },
+            {
+                "objectName": "pillow_3",
+                "position": {
+                    "x": 3.8769302368164062,
+                    "y": 0.7207885980606079,
+                    "z": 2.363241195678711
+                },
+                "rotation": {
+                    "x": 0.06957700848579407,
+                    "y": 180.0301055908203,
+                    "z": 0.026818636804819107
+                }
+            },
+            {
+                "objectName": "Bottle_1",
+                "position": {
+                    "x": 1.8162881135940552,
+                    "y": 0.7255904674530029,
+                    "z": -0.9055943489074707
+                },
+                "rotation": {
+                    "x": 0.29953011870384216,
+                    "y": 359.82867431640625,
+                    "z": 359.9465026855469
+                }
+            },
+            {
+                "objectName": "Pen_3",
+                "position": {
+                    "x": 6.9258575439453125,
+                    "y": 0.3314778208732605,
+                    "z": 1.2489924430847168
+                },
+                "rotation": {
+                    "x": -2.346081964788027e-05,
+                    "y": 179.99948120117188,
+                    "z": 0.00013703796139452606
+                }
+            },
+            {
+                "objectName": "Pencil_6",
+                "position": {
+                    "x": 5.648155212402344,
+                    "y": 0.027441680431365967,
+                    "z": 3.774495840072632
+                },
+                "rotation": {
+                    "x": 0.02412228286266327,
+                    "y": 89.99996185302734,
+                    "z": 0.05680370330810547
+                }
+            },
+            {
+                "objectName": "Basketball_1",
+                "position": {
+                    "x": 1.4388387203216553,
+                    "y": 0.5500181913375854,
+                    "z": -3.441007137298584
+                },
+                "rotation": {
+                    "x": 4.056157649756642e-06,
+                    "y": 269.999755859375,
+                    "z": -5.603184945357498e-06
+                }
+            },
+            {
+                "objectName": "Fork_1",
+                "position": {
+                    "x": 4.052651405334473,
+                    "y": 0.6566303968429565,
+                    "z": 3.162578821182251
+                },
+                "rotation": {
+                    "x": 0.06957700848579407,
+                    "y": 180.0301055908203,
+                    "z": 0.026818636804819107
+                }
+            },
+            {
+                "objectName": "pillow_9",
+                "position": {
+                    "x": 1.5381349325180054,
+                    "y": 0.5159677863121033,
+                    "z": -3.7024176120758057
+                },
+                "rotation": {
+                    "x": 0.008638015016913414,
+                    "y": -0.0006753828492946923,
+                    "z": -3.373601066414267e-05
+                }
+            },
+            {
+                "objectName": "Tissue_Box_1",
+                "position": {
+                    "x": 1.2257030010223389,
+                    "y": 0.7498231530189514,
+                    "z": -1.1939826011657715
+                },
+                "rotation": {
+                    "x": 0.29953011870384216,
+                    "y": 359.82867431640625,
+                    "z": 359.9465026855469
+                }
+            },
+            {
+                "objectName": "Pencil_4",
+                "position": {
+                    "x": 6.613500118255615,
+                    "y": 0.020486772060394287,
+                    "z": -1.1334524154663086
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Pen_4",
+                "position": {
+                    "x": 2.258305549621582,
+                    "y": 0.7220353484153748,
+                    "z": 2.790955066680908
+                },
+                "rotation": {
+                    "x": 359.9549865722656,
+                    "y": -0.0035576040390878916,
+                    "z": 359.9029235839844
+                }
+            },
+            {
+                "objectName": "Desk_Lamp_4 (2)",
+                "position": {
+                    "x": 2.143465757369995,
+                    "y": 0.717613935470581,
+                    "z": -0.9321629405021667
+                },
+                "rotation": {
+                    "x": 0.17263735830783844,
+                    "y": 359.8019104003906,
+                    "z": 359.9178466796875
+                }
+            },
+            {
+                "objectName": "Desk_Lamp_4 (1)",
+                "position": {
+                    "x": 2.0818991661071777,
+                    "y": 0.7169199585914612,
+                    "z": 2.751852035522461
+                },
+                "rotation": {
+                    "x": 359.7538757324219,
+                    "y": 359.98974609375,
+                    "z": 359.9815368652344
+                }
+            },
+            {
+                "objectName": "Desk_Lamp_4",
+                "position": {
+                    "x": 4.874680995941162,
+                    "y": 0.7183765172958374,
+                    "z": 2.6458194255828857
+                },
+                "rotation": {
+                    "x": 359.9413757324219,
+                    "y": 1.6695727109909058,
+                    "z": 359.3528747558594
+                }
+            },
+            {
+                "objectName": "pillow_11",
+                "position": {
+                    "x": 6.915992259979248,
+                    "y": 0.4133630394935608,
+                    "z": 2.4777510166168213
+                },
+                "rotation": {
+                    "x": 359.9847412109375,
+                    "y": 359.5088806152344,
+                    "z": 359.9890441894531
+                }
+            },
+            {
+                "objectName": "ArmChair_dcc087dc",
+                "position": {
+                    "x": 1.367435336112976,
+                    "y": 0.013018041849136353,
+                    "z": -2.5259995460510254
+                },
+                "rotation": {
+                    "x": -4.0561617424828e-06,
+                    "y": 89.99980926513672,
+                    "z": 5.6031822168733925e-06
+                }
+            },
+            {
+                "objectName": "Desk",
+                "position": {
+                    "x": -0.12944817543029785,
+                    "y": 0.010509729385375977,
+                    "z": -1.1374483108520508
+                },
+                "rotation": {
+                    "x": 0.29953011870384216,
+                    "y": 359.82867431640625,
+                    "z": 359.9465026855469
+                }
+            },
+            {
+                "objectName": "Chair_204_2",
+                "position": {
+                    "x": 0.9700378775596619,
+                    "y": -0.007855832576751709,
+                    "z": -1.4420015811920166
+                },
+                "rotation": {
+                    "x": 0.0002582476008683443,
+                    "y": -6.396086064341944e-06,
+                    "z": 0.10383281111717224
+                }
+            },
+            {
+                "objectName": "Mug_3",
+                "position": {
+                    "x": 3.8775277137756348,
+                    "y": 0.6546883583068848,
+                    "z": 3.562349557876587
+                },
+                "rotation": {
+                    "x": 0.06957700848579407,
+                    "y": 180.0301055908203,
+                    "z": 0.026818636804819107
+                }
+            },
+            {
+                "objectName": "Bed_860b294e",
+                "position": {
+                    "x": 8.399746894836426,
+                    "y": 0.0019327551126480103,
+                    "z": 3.309899091720581
+                },
+                "rotation": {
+                    "x": 0.03780916705727577,
+                    "y": 179.85238647460938,
+                    "z": 359.9762878417969
+                }
+            }
+        ],
+        "object_toggles": [],
+        "random_seed": 1556478708,
+        "scene_num": 246
+    },
+    "task_id": "trial_T20230611_013503_878027",
+    "task_type": "pick_and_place_with_movable_recep",
+    "turk_annotations": {
+        "anns": [
+            {
+                "high_descs": [
+                    " A turn around the bed.",
+                    " To take the pencil.",
+                    " Mug is carried nearby in bedroom.",
+                    "Pencil is kept in mug.",
+                    " To take the Pen and mug",
+                    "Pen and cup is carried nearby in the desk.",
+                    "The mug and pen are kept on the desk."
+                ],
+                "task_desc": "Collect the Pencil and Mug place it on the Desk",
+                "assignment_id": "3OXV7EAXLUCA1TCZBARQTNUM5I236U",
+                "vote1": [
+                    0,
+                    1,
+                    1
+                ],
+                "vote2": []
+            },
+            {
+                "high_descs": [
+                    " Turn left to head down the passage and turn right to reach the bed.",
+                    " Pick up the pencil from the bed.",
+                    " Turn left to reach the mug on the bed.",
+                    "Put the pencil in the mug.",
+                    " Pick up the mug from the bed.",
+                    "Turn right to head out of the desk and head down the passage to turn left to enter the bedroom to reach the box on the floor.",
+                    "Put the mug in the box."
+                ],
+                "task_desc": "Put the pencil in the mug and place it in the box.",
+                "assignment_id": "3QRYMNZ7FE3N7VGLP6JYDBK6UCMTN3",
+                "vote1": [
+                    1,
+                    0,
+                    1
+                ],
+                "vote2": []
+            },
+            {
+                "high_descs": [
+                    " Walk straight into the hallway, make a left down the hall, and walk into the last door on the right into the bedroom and over to the side of the bed.",
+                    " Pick up the pencil from the bed.",
+                    " Walk over to the side of the bed near the mug.",
+                    "Place the pencil into the mug that is on the bed.",
+                    "Pick up the mug with the pencil inside.",
+                    " Walk out of the bedroom, left into the hallway, down the hallway, into the door on the left before the bathroom which is the desk, and over to the side of the bed.",
+                    "Place the mug with the pencil inside onto the desk."
+                ],
+                "task_desc": "Put a pencil and mug onto the desk.",
+                "assignment_id": "34YB12FSQEADK89FT55R1DGHZS9GMM",
+                "vote1": [
+                    1,
+                    1,
+                    1
+                ],
+                "vote2": []
+            }
+        ]
+    }
+}

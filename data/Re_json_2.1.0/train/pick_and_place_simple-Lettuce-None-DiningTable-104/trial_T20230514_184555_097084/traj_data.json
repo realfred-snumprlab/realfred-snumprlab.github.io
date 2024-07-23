@@ -1,0 +1,5781 @@
+{
+    "images": [
+        {
+            "high_idx": 0,
+            "image_name": "000000000.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000001.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000002.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000003.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000004.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000005.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000006.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000007.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000008.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000009.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000010.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000011.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000012.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000013.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000014.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000015.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000016.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000017.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000018.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000019.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000020.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000021.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000022.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000023.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000024.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000025.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000026.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000027.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000028.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000029.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000030.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000031.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000032.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000033.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000034.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000035.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000036.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000037.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000038.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000039.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000040.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000041.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000042.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000043.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000044.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000045.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000046.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000047.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000048.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000049.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000050.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000051.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000052.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000053.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000054.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000055.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000056.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000057.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000058.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000059.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000060.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000061.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000062.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000063.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000064.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000065.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000066.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000067.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000068.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000069.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000070.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000071.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000072.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000073.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000074.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000075.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000076.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000077.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000078.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000079.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000080.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000081.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000082.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000083.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000084.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000085.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000086.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000087.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000088.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000089.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000090.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000091.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000092.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000093.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000094.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000095.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000096.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000097.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000098.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000099.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000100.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000101.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000102.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000103.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000104.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000105.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000106.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000107.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000108.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000109.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000110.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000111.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000112.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000113.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000114.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000115.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000116.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000117.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000118.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000119.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000120.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000121.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000122.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000123.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000124.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000125.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000126.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000127.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000128.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000129.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000130.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000131.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000132.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000133.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000134.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000135.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000136.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000137.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000138.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000139.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000140.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000141.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000142.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000143.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000144.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000145.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000146.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000147.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000148.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000149.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000150.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000151.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000152.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000153.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000154.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000155.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000156.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000157.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000158.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000159.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000160.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000161.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000162.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000163.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000164.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000165.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000166.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000167.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000168.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000169.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000170.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000171.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000172.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000173.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000174.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000175.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000176.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000177.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000178.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000179.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000180.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000181.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000182.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000183.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000184.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000185.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000186.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000187.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000188.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000189.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000190.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000191.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000192.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000193.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000194.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000195.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000196.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000197.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000198.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000199.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000200.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000201.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000202.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000203.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000204.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000205.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000206.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000207.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000208.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000209.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000210.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000211.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000212.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000213.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000214.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000215.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000216.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000217.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000218.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000219.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000220.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000221.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000222.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000223.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000224.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000225.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000226.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000227.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000228.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000229.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000230.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000231.png",
+            "low_idx": 55
+        }
+    ],
+    "pddl_params": {
+        "mrecep_target": "",
+        "object_sliced": false,
+        "object_target": "Lettuce",
+        "parent_target": "DiningTable",
+        "toggle_target": ""
+    },
+    "plan": {
+        "high_pddl": [
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "fridge"
+                    ]
+                },
+                "high_idx": 0,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|-3|-10|2|45"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": [
+                        "lettuce"
+                    ]
+                },
+                "high_idx": 1,
+                "planner_action": {
+                    "action": "PickupObject",
+                    "forceVisible": true,
+                    "objectId": "Lettuce|-00.77|+00.95|-03.15",
+                    "receptacleObjectId": "Fridge|-00.55|+00.04|-03.13"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "diningtable"
+                    ]
+                },
+                "high_idx": 2,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|1|-5|3|60"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": [
+                        "lettuce",
+                        "diningtable"
+                    ]
+                },
+                "high_idx": 3,
+                "planner_action": {
+                    "action": "PutObject",
+                    "forceVisible": true,
+                    "objectId": "Lettuce|-00.77|+00.95|-03.15",
+                    "receptacleObjectId": "DiningTable|-00.57|-00.03|-01.29"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "NoOp",
+                    "args": []
+                },
+                "high_idx": 4,
+                "planner_action": {
+                    "action": "End",
+                    "value": 1
+                }
+            }
+        ],
+        "low_actions": [
+            {
+                "api_action": {
+                    "action": "LookDown"
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "OpenObject",
+                    "objectId": "Fridge|-00.55|+00.04|-03.13"
+                },
+                "discrete_action": {
+                    "action": "OpenObject",
+                    "args": {
+                        "bbox": [
+                            0,
+                            0,
+                            297,
+                            246
+                        ],
+                        "mask": [
+                            [
+                                0,
+                                298
+                            ],
+                            [
+                                300,
+                                298
+                            ],
+                            [
+                                600,
+                                297
+                            ],
+                            [
+                                900,
+                                297
+                            ],
+                            [
+                                1200,
+                                296
+                            ],
+                            [
+                                1500,
+                                296
+                            ],
+                            [
+                                1800,
+                                295
+                            ],
+                            [
+                                2100,
+                                295
+                            ],
+                            [
+                                2400,
+                                294
+                            ],
+                            [
+                                2700,
+                                294
+                            ],
+                            [
+                                3000,
+                                293
+                            ],
+                            [
+                                3300,
+                                293
+                            ],
+                            [
+                                3600,
+                                292
+                            ],
+                            [
+                                3900,
+                                292
+                            ],
+                            [
+                                4200,
+                                291
+                            ],
+                            [
+                                4500,
+                                291
+                            ],
+                            [
+                                4800,
+                                290
+                            ],
+                            [
+                                5100,
+                                290
+                            ],
+                            [
+                                5400,
+                                289
+                            ],
+                            [
+                                5700,
+                                289
+                            ],
+                            [
+                                6000,
+                                288
+                            ],
+                            [
+                                6300,
+                                288
+                            ],
+                            [
+                                6600,
+                                287
+                            ],
+                            [
+                                6900,
+                                287
+                            ],
+                            [
+                                7200,
+                                286
+                            ],
+                            [
+                                7500,
+                                286
+                            ],
+                            [
+                                7800,
+                                285
+                            ],
+                            [
+                                8100,
+                                285
+                            ],
+                            [
+                                8400,
+                                284
+                            ],
+                            [
+                                8700,
+                                284
+                            ],
+                            [
+                                9000,
+                                283
+                            ],
+                            [
+                                9300,
+                                283
+                            ],
+                            [
+                                9600,
+                                282
+                            ],
+                            [
+                                9900,
+                                282
+                            ],
+                            [
+                                10200,
+                                281
+                            ],
+                            [
+                                10500,
+                                281
+                            ],
+                            [
+                                10800,
+                                280
+                            ],
+                            [
+                                11100,
+                                280
+                            ],
+                            [
+                                11400,
+                                279
+                            ],
+                            [
+                                11700,
+                                279
+                            ],
+                            [
+                                12000,
+                                278
+                            ],
+                            [
+                                12300,
+                                278
+                            ],
+                            [
+                                12600,
+                                277
+                            ],
+                            [
+                                12900,
+                                277
+                            ],
+                            [
+                                13200,
+                                276
+                            ],
+                            [
+                                13500,
+                                276
+                            ],
+                            [
+                                13800,
+                                275
+                            ],
+                            [
+                                14100,
+                                275
+                            ],
+                            [
+                                14400,
+                                274
+                            ],
+                            [
+                                14700,
+                                274
+                            ],
+                            [
+                                15000,
+                                273
+                            ],
+                            [
+                                15300,
+                                273
+                            ],
+                            [
+                                15600,
+                                272
+                            ],
+                            [
+                                15900,
+                                272
+                            ],
+                            [
+                                16200,
+                                271
+                            ],
+                            [
+                                16500,
+                                271
+                            ],
+                            [
+                                16800,
+                                270
+                            ],
+                            [
+                                17100,
+                                270
+                            ],
+                            [
+                                17400,
+                                269
+                            ],
+                            [
+                                17700,
+                                269
+                            ],
+                            [
+                                18000,
+                                268
+                            ],
+                            [
+                                18300,
+                                268
+                            ],
+                            [
+                                18600,
+                                267
+                            ],
+                            [
+                                18900,
+                                267
+                            ],
+                            [
+                                19200,
+                                266
+                            ],
+                            [
+                                19500,
+                                266
+                            ],
+                            [
+                                19800,
+                                265
+                            ],
+                            [
+                                20100,
+                                265
+                            ],
+                            [
+                                20400,
+                                264
+                            ],
+                            [
+                                20700,
+                                264
+                            ],
+                            [
+                                21000,
+                                264
+                            ],
+                            [
+                                21300,
+                                263
+                            ],
+                            [
+                                21600,
+                                263
+                            ],
+                            [
+                                21900,
+                                262
+                            ],
+                            [
+                                22200,
+                                262
+                            ],
+                            [
+                                22500,
+                                261
+                            ],
+                            [
+                                22800,
+                                261
+                            ],
+                            [
+                                23100,
+                                260
+                            ],
+                            [
+                                23400,
+                                260
+                            ],
+                            [
+                                23700,
+                                259
+                            ],
+                            [
+                                24000,
+                                259
+                            ],
+                            [
+                                24300,
+                                258
+                            ],
+                            [
+                                24600,
+                                258
+                            ],
+                            [
+                                24900,
+                                257
+                            ],
+                            [
+                                25200,
+                                257
+                            ],
+                            [
+                                25500,
+                                256
+                            ],
+                            [
+                                25800,
+                                256
+                            ],
+                            [
+                                26100,
+                                255
+                            ],
+                            [
+                                26400,
+                                255
+                            ],
+                            [
+                                26700,
+                                254
+                            ],
+                            [
+                                27000,
+                                254
+                            ],
+                            [
+                                27300,
+                                253
+                            ],
+                            [
+                                27600,
+                                253
+                            ],
+                            [
+                                27900,
+                                252
+                            ],
+                            [
+                                28200,
+                                252
+                            ],
+                            [
+                                28500,
+                                251
+                            ],
+                            [
+                                28800,
+                                251
+                            ],
+                            [
+                                29100,
+                                250
+                            ],
+                            [
+                                29400,
+                                250
+                            ],
+                            [
+                                29700,
+                                249
+                            ],
+                            [
+                                30000,
+                                249
+                            ],
+                            [
+                                30300,
+                                248
+                            ],
+                            [
+                                30600,
+                                248
+                            ],
+                            [
+                                30900,
+                                247
+                            ],
+                            [
+                                31200,
+                                247
+                            ],
+                            [
+                                31500,
+                                246
+                            ],
+                            [
+                                31800,
+                                246
+                            ],
+                            [
+                                32100,
+                                245
+                            ],
+                            [
+                                32400,
+                                245
+                            ],
+                            [
+                                32700,
+                                244
+                            ],
+                            [
+                                33000,
+                                244
+                            ],
+                            [
+                                33300,
+                                243
+                            ],
+                            [
+                                33600,
+                                243
+                            ],
+                            [
+                                33900,
+                                242
+                            ],
+                            [
+                                34200,
+                                242
+                            ],
+                            [
+                                34500,
+                                241
+                            ],
+                            [
+                                34800,
+                                241
+                            ],
+                            [
+                                35100,
+                                240
+                            ],
+                            [
+                                35400,
+                                240
+                            ],
+                            [
+                                35700,
+                                239
+                            ],
+                            [
+                                36000,
+                                239
+                            ],
+                            [
+                                36300,
+                                238
+                            ],
+                            [
+                                36600,
+                                238
+                            ],
+                            [
+                                36900,
+                                237
+                            ],
+                            [
+                                37200,
+                                237
+                            ],
+                            [
+                                37500,
+                                236
+                            ],
+                            [
+                                37800,
+                                236
+                            ],
+                            [
+                                38100,
+                                235
+                            ],
+                            [
+                                38400,
+                                235
+                            ],
+                            [
+                                38700,
+                                234
+                            ],
+                            [
+                                39000,
+                                234
+                            ],
+                            [
+                                39300,
+                                233
+                            ],
+                            [
+                                39600,
+                                233
+                            ],
+                            [
+                                39900,
+                                232
+                            ],
+                            [
+                                40200,
+                                232
+                            ],
+                            [
+                                40500,
+                                231
+                            ],
+                            [
+                                40800,
+                                231
+                            ],
+                            [
+                                41100,
+                                230
+                            ],
+                            [
+                                41400,
+                                230
+                            ],
+                            [
+                                41700,
+                                229
+                            ],
+                            [
+                                42000,
+                                229
+                            ],
+                            [
+                                42300,
+                                228
+                            ],
+                            [
+                                42600,
+                                228
+                            ],
+                            [
+                                42900,
+                                227
+                            ],
+                            [
+                                43200,
+                                227
+                            ],
+                            [
+                                43500,
+                                226
+                            ],
+                            [
+                                43800,
+                                226
+                            ],
+                            [
+                                44100,
+                                225
+                            ],
+                            [
+                                44400,
+                                225
+                            ],
+                            [
+                                44700,
+                                224
+                            ],
+                            [
+                                45000,
+                                224
+                            ],
+                            [
+                                45300,
+                                223
+                            ],
+                            [
+                                45600,
+                                223
+                            ],
+                            [
+                                45900,
+                                222
+                            ],
+                            [
+                                46200,
+                                222
+                            ],
+                            [
+                                46500,
+                                221
+                            ],
+                            [
+                                46800,
+                                221
+                            ],
+                            [
+                                47100,
+                                220
+                            ],
+                            [
+                                47400,
+                                220
+                            ],
+                            [
+                                47700,
+                                219
+                            ],
+                            [
+                                48000,
+                                219
+                            ],
+                            [
+                                48300,
+                                218
+                            ],
+                            [
+                                48600,
+                                218
+                            ],
+                            [
+                                48900,
+                                218
+                            ],
+                            [
+                                49200,
+                                217
+                            ],
+                            [
+                                49500,
+                                217
+                            ],
+                            [
+                                49800,
+                                216
+                            ],
+                            [
+                                50100,
+                                216
+                            ],
+                            [
+                                50400,
+                                215
+                            ],
+                            [
+                                50700,
+                                215
+                            ],
+                            [
+                                51000,
+                                214
+                            ],
+                            [
+                                51300,
+                                214
+                            ],
+                            [
+                                51600,
+                                213
+                            ],
+                            [
+                                51900,
+                                213
+                            ],
+                            [
+                                52200,
+                                212
+                            ],
+                            [
+                                52500,
+                                212
+                            ],
+                            [
+                                52800,
+                                211
+                            ],
+                            [
+                                53100,
+                                211
+                            ],
+                            [
+                                53400,
+                                210
+                            ],
+                            [
+                                53700,
+                                210
+                            ],
+                            [
+                                54000,
+                                209
+                            ],
+                            [
+                                54300,
+                                209
+                            ],
+                            [
+                                54600,
+                                208
+                            ],
+                            [
+                                54900,
+                                208
+                            ],
+                            [
+                                55200,
+                                207
+                            ],
+                            [
+                                55500,
+                                207
+                            ],
+                            [
+                                55800,
+                                206
+                            ],
+                            [
+                                56101,
+                                205
+                            ],
+                            [
+                                56402,
+                                203
+                            ],
+                            [
+                                56703,
+                                202
+                            ],
+                            [
+                                57005,
+                                199
+                            ],
+                            [
+                                57306,
+                                198
+                            ],
+                            [
+                                57600,
+                                1
+                            ],
+                            [
+                                57607,
+                                196
+                            ],
+                            [
+                                57900,
+                                3
+                            ],
+                            [
+                                57909,
+                                194
+                            ],
+                            [
+                                58200,
+                                4
+                            ],
+                            [
+                                58210,
+                                192
+                            ],
+                            [
+                                58500,
+                                6
+                            ],
+                            [
+                                58511,
+                                191
+                            ],
+                            [
+                                58800,
+                                8
+                            ],
+                            [
+                                58813,
+                                188
+                            ],
+                            [
+                                59100,
+                                9
+                            ],
+                            [
+                                59113,
+                                188
+                            ],
+                            [
+                                59400,
+                                12
+                            ],
+                            [
+                                59413,
+                                187
+                            ],
+                            [
+                                59700,
+                                200
+                            ],
+                            [
+                                60000,
+                                17
+                            ],
+                            [
+                                60019,
+                                180
+                            ],
+                            [
+                                60303,
+                                196
+                            ],
+                            [
+                                60605,
+                                193
+                            ],
+                            [
+                                60908,
+                                190
+                            ],
+                            [
+                                61211,
+                                186
+                            ],
+                            [
+                                61516,
+                                181
+                            ],
+                            [
+                                61815,
+                                181
+                            ],
+                            [
+                                62116,
+                                180
+                            ],
+                            [
+                                62420,
+                                175
+                            ],
+                            [
+                                62720,
+                                175
+                            ],
+                            [
+                                63021,
+                                173
+                            ],
+                            [
+                                63322,
+                                172
+                            ],
+                            [
+                                63622,
+                                10
+                            ],
+                            [
+                                63634,
+                                159
+                            ],
+                            [
+                                63923,
+                                10
+                            ],
+                            [
+                                63935,
+                                158
+                            ],
+                            [
+                                64224,
+                                10
+                            ],
+                            [
+                                64236,
+                                156
+                            ],
+                            [
+                                64525,
+                                10
+                            ],
+                            [
+                                64538,
+                                154
+                            ],
+                            [
+                                64826,
+                                10
+                            ],
+                            [
+                                64839,
+                                152
+                            ],
+                            [
+                                65127,
+                                10
+                            ],
+                            [
+                                65140,
+                                151
+                            ],
+                            [
+                                65428,
+                                10
+                            ],
+                            [
+                                65442,
+                                148
+                            ],
+                            [
+                                65729,
+                                10
+                            ],
+                            [
+                                65743,
+                                147
+                            ],
+                            [
+                                66030,
+                                10
+                            ],
+                            [
+                                66044,
+                                145
+                            ],
+                            [
+                                66331,
+                                11
+                            ],
+                            [
+                                66345,
+                                144
+                            ],
+                            [
+                                66632,
+                                11
+                            ],
+                            [
+                                66644,
+                                144
+                            ],
+                            [
+                                66934,
+                                13
+                            ],
+                            [
+                                66948,
+                                140
+                            ],
+                            [
+                                67236,
+                                13
+                            ],
+                            [
+                                67250,
+                                137
+                            ],
+                            [
+                                67538,
+                                149
+                            ],
+                            [
+                                67840,
+                                146
+                            ],
+                            [
+                                68144,
+                                8
+                            ],
+                            [
+                                68154,
+                                132
+                            ],
+                            [
+                                68455,
+                                130
+                            ],
+                            [
+                                68756,
+                                129
+                            ],
+                            [
+                                69058,
+                                126
+                            ],
+                            [
+                                69359,
+                                125
+                            ],
+                            [
+                                69660,
+                                123
+                            ],
+                            [
+                                69962,
+                                121
+                            ],
+                            [
+                                70263,
+                                119
+                            ],
+                            [
+                                70564,
+                                118
+                            ],
+                            [
+                                70866,
+                                115
+                            ],
+                            [
+                                71167,
+                                114
+                            ],
+                            [
+                                71468,
+                                112
+                            ],
+                            [
+                                71770,
+                                110
+                            ],
+                            [
+                                72071,
+                                108
+                            ],
+                            [
+                                72372,
+                                107
+                            ],
+                            [
+                                72676,
+                                102
+                            ],
+                            [
+                                72981,
+                                94
+                            ],
+                            [
+                                73288,
+                                81
+                            ],
+                            [
+                                73600,
+                                59
+                            ],
+                            [
+                                73914,
+                                29
+                            ]
+                        ],
+                        "point": [
+                            148,
+                            123
+                        ]
+                    }
+                },
+                "high_idx": 1
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "Lettuce|-00.77|+00.95|-03.15"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            141,
+                            129,
+                            164,
+                            163
+                        ],
+                        "mask": [
+                            [
+                                38850,
+                                6
+                            ],
+                            [
+                                39148,
+                                11
+                            ],
+                            [
+                                39446,
+                                15
+                            ],
+                            [
+                                39744,
+                                18
+                            ],
+                            [
+                                40044,
+                                18
+                            ],
+                            [
+                                40343,
+                                20
+                            ],
+                            [
+                                40643,
+                                21
+                            ],
+                            [
+                                40943,
+                                21
+                            ],
+                            [
+                                41242,
+                                22
+                            ],
+                            [
+                                41542,
+                                22
+                            ],
+                            [
+                                41842,
+                                22
+                            ],
+                            [
+                                42142,
+                                23
+                            ],
+                            [
+                                42442,
+                                23
+                            ],
+                            [
+                                42742,
+                                23
+                            ],
+                            [
+                                43042,
+                                23
+                            ],
+                            [
+                                43342,
+                                23
+                            ],
+                            [
+                                43641,
+                                24
+                            ],
+                            [
+                                43941,
+                                24
+                            ],
+                            [
+                                44241,
+                                23
+                            ],
+                            [
+                                44541,
+                                23
+                            ],
+                            [
+                                44841,
+                                23
+                            ],
+                            [
+                                45141,
+                                22
+                            ],
+                            [
+                                45442,
+                                21
+                            ],
+                            [
+                                45742,
+                                20
+                            ],
+                            [
+                                46043,
+                                19
+                            ],
+                            [
+                                46343,
+                                19
+                            ],
+                            [
+                                46644,
+                                17
+                            ],
+                            [
+                                46944,
+                                16
+                            ],
+                            [
+                                47245,
+                                15
+                            ],
+                            [
+                                47546,
+                                13
+                            ],
+                            [
+                                47847,
+                                11
+                            ],
+                            [
+                                48148,
+                                10
+                            ],
+                            [
+                                48449,
+                                8
+                            ],
+                            [
+                                48750,
+                                7
+                            ],
+                            [
+                                49052,
+                                3
+                            ]
+                        ],
+                        "point": [
+                            152,
+                            146
+                        ]
+                    }
+                },
+                "high_idx": 1
+            },
+            {
+                "api_action": {
+                    "action": "CloseObject",
+                    "objectId": "Fridge|-00.55|+00.04|-03.13"
+                },
+                "discrete_action": {
+                    "action": "CloseObject",
+                    "args": {
+                        "bbox": [
+                            0,
+                            0,
+                            299,
+                            299
+                        ],
+                        "mask": [
+                            [
+                                0,
+                                51900
+                            ],
+                            [
+                                51901,
+                                145
+                            ],
+                            [
+                                52053,
+                                147
+                            ],
+                            [
+                                52202,
+                                143
+                            ],
+                            [
+                                52355,
+                                145
+                            ],
+                            [
+                                52503,
+                                141
+                            ],
+                            [
+                                52655,
+                                145
+                            ],
+                            [
+                                52805,
+                                139
+                            ],
+                            [
+                                52956,
+                                144
+                            ],
+                            [
+                                53106,
+                                137
+                            ],
+                            [
+                                53257,
+                                143
+                            ],
+                            [
+                                53407,
+                                135
+                            ],
+                            [
+                                53557,
+                                143
+                            ],
+                            [
+                                53708,
+                                134
+                            ],
+                            [
+                                53858,
+                                142
+                            ],
+                            [
+                                54009,
+                                132
+                            ],
+                            [
+                                54159,
+                                141
+                            ],
+                            [
+                                54311,
+                                130
+                            ],
+                            [
+                                54459,
+                                141
+                            ],
+                            [
+                                54612,
+                                128
+                            ],
+                            [
+                                54760,
+                                140
+                            ],
+                            [
+                                54913,
+                                126
+                            ],
+                            [
+                                55061,
+                                139
+                            ],
+                            [
+                                55214,
+                                124
+                            ],
+                            [
+                                55362,
+                                138
+                            ],
+                            [
+                                55515,
+                                123
+                            ],
+                            [
+                                55663,
+                                137
+                            ],
+                            [
+                                55816,
+                                121
+                            ],
+                            [
+                                55964,
+                                136
+                            ],
+                            [
+                                56118,
+                                118
+                            ],
+                            [
+                                56264,
+                                136
+                            ],
+                            [
+                                56419,
+                                116
+                            ],
+                            [
+                                56565,
+                                135
+                            ],
+                            [
+                                56720,
+                                115
+                            ],
+                            [
+                                56866,
+                                134
+                            ],
+                            [
+                                57021,
+                                113
+                            ],
+                            [
+                                57167,
+                                133
+                            ],
+                            [
+                                57322,
+                                111
+                            ],
+                            [
+                                57467,
+                                133
+                            ],
+                            [
+                                57623,
+                                109
+                            ],
+                            [
+                                57768,
+                                132
+                            ],
+                            [
+                                57925,
+                                107
+                            ],
+                            [
+                                58069,
+                                131
+                            ],
+                            [
+                                58226,
+                                105
+                            ],
+                            [
+                                58369,
+                                131
+                            ],
+                            [
+                                58527,
+                                104
+                            ],
+                            [
+                                58670,
+                                130
+                            ],
+                            [
+                                58828,
+                                102
+                            ],
+                            [
+                                58971,
+                                129
+                            ],
+                            [
+                                59129,
+                                101
+                            ],
+                            [
+                                59271,
+                                129
+                            ],
+                            [
+                                59431,
+                                99
+                            ],
+                            [
+                                59572,
+                                128
+                            ],
+                            [
+                                59732,
+                                97
+                            ],
+                            [
+                                59872,
+                                128
+                            ],
+                            [
+                                60033,
+                                96
+                            ],
+                            [
+                                60173,
+                                127
+                            ],
+                            [
+                                60334,
+                                95
+                            ],
+                            [
+                                60473,
+                                127
+                            ],
+                            [
+                                60635,
+                                93
+                            ],
+                            [
+                                60774,
+                                126
+                            ],
+                            [
+                                60936,
+                                92
+                            ],
+                            [
+                                61074,
+                                126
+                            ],
+                            [
+                                61238,
+                                89
+                            ],
+                            [
+                                61375,
+                                125
+                            ],
+                            [
+                                61539,
+                                88
+                            ],
+                            [
+                                61675,
+                                125
+                            ],
+                            [
+                                61840,
+                                86
+                            ],
+                            [
+                                61976,
+                                124
+                            ],
+                            [
+                                62141,
+                                85
+                            ],
+                            [
+                                62276,
+                                124
+                            ],
+                            [
+                                62442,
+                                83
+                            ],
+                            [
+                                62577,
+                                123
+                            ],
+                            [
+                                62743,
+                                82
+                            ],
+                            [
+                                62877,
+                                123
+                            ],
+                            [
+                                63045,
+                                79
+                            ],
+                            [
+                                63177,
+                                123
+                            ],
+                            [
+                                63346,
+                                78
+                            ],
+                            [
+                                63478,
+                                122
+                            ],
+                            [
+                                63647,
+                                76
+                            ],
+                            [
+                                63778,
+                                122
+                            ],
+                            [
+                                63948,
+                                75
+                            ],
+                            [
+                                64078,
+                                122
+                            ],
+                            [
+                                64249,
+                                74
+                            ],
+                            [
+                                64379,
+                                121
+                            ],
+                            [
+                                64551,
+                                71
+                            ],
+                            [
+                                64679,
+                                121
+                            ],
+                            [
+                                64852,
+                                70
+                            ],
+                            [
+                                64979,
+                                121
+                            ],
+                            [
+                                65153,
+                                69
+                            ],
+                            [
+                                65279,
+                                121
+                            ],
+                            [
+                                65454,
+                                67
+                            ],
+                            [
+                                65579,
+                                121
+                            ],
+                            [
+                                65755,
+                                66
+                            ],
+                            [
+                                65880,
+                                120
+                            ],
+                            [
+                                66056,
+                                65
+                            ],
+                            [
+                                66180,
+                                120
+                            ],
+                            [
+                                66358,
+                                63
+                            ],
+                            [
+                                66480,
+                                120
+                            ],
+                            [
+                                66659,
+                                61
+                            ],
+                            [
+                                66780,
+                                120
+                            ],
+                            [
+                                66960,
+                                60
+                            ],
+                            [
+                                67081,
+                                119
+                            ],
+                            [
+                                67261,
+                                59
+                            ],
+                            [
+                                67381,
+                                119
+                            ],
+                            [
+                                67562,
+                                58
+                            ],
+                            [
+                                67681,
+                                119
+                            ],
+                            [
+                                67863,
+                                57
+                            ],
+                            [
+                                67981,
+                                119
+                            ],
+                            [
+                                68165,
+                                54
+                            ],
+                            [
+                                68281,
+                                119
+                            ],
+                            [
+                                68466,
+                                53
+                            ],
+                            [
+                                68581,
+                                119
+                            ],
+                            [
+                                68767,
+                                52
+                            ],
+                            [
+                                68882,
+                                118
+                            ],
+                            [
+                                69068,
+                                51
+                            ],
+                            [
+                                69182,
+                                118
+                            ],
+                            [
+                                69369,
+                                50
+                            ],
+                            [
+                                69482,
+                                118
+                            ],
+                            [
+                                69671,
+                                47
+                            ],
+                            [
+                                69782,
+                                118
+                            ],
+                            [
+                                69972,
+                                46
+                            ],
+                            [
+                                70082,
+                                118
+                            ],
+                            [
+                                70273,
+                                45
+                            ],
+                            [
+                                70382,
+                                118
+                            ],
+                            [
+                                70574,
+                                44
+                            ],
+                            [
+                                70682,
+                                118
+                            ],
+                            [
+                                70875,
+                                43
+                            ],
+                            [
+                                70982,
+                                118
+                            ],
+                            [
+                                71175,
+                                43
+                            ],
+                            [
+                                71282,
+                                118
+                            ],
+                            [
+                                71473,
+                                45
+                            ],
+                            [
+                                71582,
+                                118
+                            ],
+                            [
+                                71773,
+                                45
+                            ],
+                            [
+                                71882,
+                                118
+                            ],
+                            [
+                                72073,
+                                45
+                            ],
+                            [
+                                72182,
+                                118
+                            ],
+                            [
+                                72374,
+                                44
+                            ],
+                            [
+                                72482,
+                                118
+                            ],
+                            [
+                                72677,
+                                41
+                            ],
+                            [
+                                72782,
+                                118
+                            ],
+                            [
+                                72982,
+                                36
+                            ],
+                            [
+                                73082,
+                                118
+                            ],
+                            [
+                                73288,
+                                30
+                            ],
+                            [
+                                73382,
+                                118
+                            ],
+                            [
+                                73600,
+                                18
+                            ],
+                            [
+                                73682,
+                                118
+                            ],
+                            [
+                                73914,
+                                4
+                            ],
+                            [
+                                73981,
+                                119
+                            ],
+                            [
+                                74281,
+                                119
+                            ],
+                            [
+                                74581,
+                                119
+                            ],
+                            [
+                                74881,
+                                119
+                            ],
+                            [
+                                75181,
+                                119
+                            ],
+                            [
+                                75480,
+                                120
+                            ],
+                            [
+                                75780,
+                                120
+                            ],
+                            [
+                                76079,
+                                121
+                            ],
+                            [
+                                76379,
+                                121
+                            ],
+                            [
+                                76679,
+                                121
+                            ],
+                            [
+                                76978,
+                                122
+                            ],
+                            [
+                                77278,
+                                122
+                            ],
+                            [
+                                77578,
+                                122
+                            ],
+                            [
+                                77877,
+                                123
+                            ],
+                            [
+                                78177,
+                                123
+                            ],
+                            [
+                                78476,
+                                124
+                            ],
+                            [
+                                78776,
+                                124
+                            ],
+                            [
+                                79076,
+                                124
+                            ],
+                            [
+                                79375,
+                                125
+                            ],
+                            [
+                                79675,
+                                125
+                            ],
+                            [
+                                79975,
+                                125
+                            ],
+                            [
+                                80275,
+                                125
+                            ],
+                            [
+                                80575,
+                                125
+                            ],
+                            [
+                                80876,
+                                124
+                            ],
+                            [
+                                81176,
+                                124
+                            ],
+                            [
+                                81476,
+                                124
+                            ],
+                            [
+                                81776,
+                                124
+                            ],
+                            [
+                                82076,
+                                124
+                            ],
+                            [
+                                82376,
+                                124
+                            ],
+                            [
+                                82676,
+                                124
+                            ],
+                            [
+                                82976,
+                                124
+                            ],
+                            [
+                                83276,
+                                124
+                            ],
+                            [
+                                83576,
+                                124
+                            ],
+                            [
+                                83877,
+                                123
+                            ],
+                            [
+                                84177,
+                                123
+                            ],
+                            [
+                                84477,
+                                123
+                            ],
+                            [
+                                84777,
+                                123
+                            ],
+                            [
+                                85077,
+                                123
+                            ],
+                            [
+                                85377,
+                                123
+                            ],
+                            [
+                                85677,
+                                123
+                            ],
+                            [
+                                85977,
+                                123
+                            ],
+                            [
+                                86277,
+                                123
+                            ],
+                            [
+                                86577,
+                                123
+                            ],
+                            [
+                                86877,
+                                123
+                            ],
+                            [
+                                87178,
+                                122
+                            ],
+                            [
+                                87478,
+                                122
+                            ],
+                            [
+                                87778,
+                                122
+                            ],
+                            [
+                                88078,
+                                122
+                            ],
+                            [
+                                88378,
+                                122
+                            ],
+                            [
+                                88678,
+                                122
+                            ],
+                            [
+                                88978,
+                                122
+                            ],
+                            [
+                                89278,
+                                122
+                            ],
+                            [
+                                89578,
+                                122
+                            ],
+                            [
+                                89878,
+                                122
+                            ]
+                        ],
+                        "point": [
+                            149,
+                            149
+                        ]
+                    }
+                },
+                "high_idx": 1
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "LookDown",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "PutObject",
+                    "forceAction": true,
+                    "objectId": "DiningTable|-00.57|-00.03|-01.29",
+                    "placeStationary": true
+                },
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": {
+                        "bbox": [
+                            38,
+                            63,
+                            245,
+                            181
+                        ],
+                        "mask": [
+                            [
+                                18972,
+                                83
+                            ],
+                            [
+                                19072,
+                                46
+                            ],
+                            [
+                                19271,
+                                82
+                            ],
+                            [
+                                19374,
+                                44
+                            ],
+                            [
+                                19571,
+                                80
+                            ],
+                            [
+                                19676,
+                                43
+                            ],
+                            [
+                                19870,
+                                80
+                            ],
+                            [
+                                19978,
+                                41
+                            ],
+                            [
+                                20170,
+                                78
+                            ],
+                            [
+                                20279,
+                                41
+                            ],
+                            [
+                                20469,
+                                36
+                            ],
+                            [
+                                20508,
+                                38
+                            ],
+                            [
+                                20581,
+                                39
+                            ],
+                            [
+                                20769,
+                                33
+                            ],
+                            [
+                                20811,
+                                34
+                            ],
+                            [
+                                20882,
+                                38
+                            ],
+                            [
+                                21068,
+                                33
+                            ],
+                            [
+                                21102,
+                                8
+                            ],
+                            [
+                                21112,
+                                33
+                            ],
+                            [
+                                21183,
+                                38
+                            ],
+                            [
+                                21368,
+                                32
+                            ],
+                            [
+                                21412,
+                                33
+                            ],
+                            [
+                                21483,
+                                38
+                            ],
+                            [
+                                21668,
+                                28
+                            ],
+                            [
+                                21715,
+                                30
+                            ],
+                            [
+                                21783,
+                                38
+                            ],
+                            [
+                                21967,
+                                27
+                            ],
+                            [
+                                22017,
+                                28
+                            ],
+                            [
+                                22083,
+                                39
+                            ],
+                            [
+                                22267,
+                                25
+                            ],
+                            [
+                                22318,
+                                27
+                            ],
+                            [
+                                22384,
+                                38
+                            ],
+                            [
+                                22566,
+                                25
+                            ],
+                            [
+                                22619,
+                                26
+                            ],
+                            [
+                                22684,
+                                39
+                            ],
+                            [
+                                22866,
+                                24
+                            ],
+                            [
+                                22919,
+                                26
+                            ],
+                            [
+                                22984,
+                                39
+                            ],
+                            [
+                                23165,
+                                24
+                            ],
+                            [
+                                23203,
+                                8
+                            ],
+                            [
+                                23220,
+                                24
+                            ],
+                            [
+                                23284,
+                                39
+                            ],
+                            [
+                                23465,
+                                23
+                            ],
+                            [
+                                23499,
+                                15
+                            ],
+                            [
+                                23520,
+                                24
+                            ],
+                            [
+                                23584,
+                                40
+                            ],
+                            [
+                                23764,
+                                24
+                            ],
+                            [
+                                23797,
+                                19
+                            ],
+                            [
+                                23820,
+                                25
+                            ],
+                            [
+                                23884,
+                                40
+                            ],
+                            [
+                                24064,
+                                23
+                            ],
+                            [
+                                24095,
+                                22
+                            ],
+                            [
+                                24120,
+                                26
+                            ],
+                            [
+                                24183,
+                                42
+                            ],
+                            [
+                                24363,
+                                24
+                            ],
+                            [
+                                24394,
+                                24
+                            ],
+                            [
+                                24420,
+                                28
+                            ],
+                            [
+                                24481,
+                                44
+                            ],
+                            [
+                                24663,
+                                24
+                            ],
+                            [
+                                24693,
+                                24
+                            ],
+                            [
+                                24720,
+                                29
+                            ],
+                            [
+                                24780,
+                                45
+                            ],
+                            [
+                                24962,
+                                25
+                            ],
+                            [
+                                24992,
+                                25
+                            ],
+                            [
+                                25020,
+                                18
+                            ],
+                            [
+                                25048,
+                                3
+                            ],
+                            [
+                                25079,
+                                47
+                            ],
+                            [
+                                25262,
+                                25
+                            ],
+                            [
+                                25292,
+                                24
+                            ],
+                            [
+                                25320,
+                                17
+                            ],
+                            [
+                                25349,
+                                3
+                            ],
+                            [
+                                25377,
+                                49
+                            ],
+                            [
+                                25561,
+                                26
+                            ],
+                            [
+                                25591,
+                                24
+                            ],
+                            [
+                                25620,
+                                15
+                            ],
+                            [
+                                25651,
+                                3
+                            ],
+                            [
+                                25676,
+                                51
+                            ],
+                            [
+                                25861,
+                                27
+                            ],
+                            [
+                                25891,
+                                23
+                            ],
+                            [
+                                25919,
+                                16
+                            ],
+                            [
+                                25951,
+                                4
+                            ],
+                            [
+                                25974,
+                                53
+                            ],
+                            [
+                                26160,
+                                29
+                            ],
+                            [
+                                26192,
+                                20
+                            ],
+                            [
+                                26219,
+                                15
+                            ],
+                            [
+                                26252,
+                                75
+                            ],
+                            [
+                                26460,
+                                29
+                            ],
+                            [
+                                26493,
+                                17
+                            ],
+                            [
+                                26518,
+                                16
+                            ],
+                            [
+                                26552,
+                                76
+                            ],
+                            [
+                                26760,
+                                30
+                            ],
+                            [
+                                26796,
+                                11
+                            ],
+                            [
+                                26818,
+                                15
+                            ],
+                            [
+                                26852,
+                                76
+                            ],
+                            [
+                                27059,
+                                32
+                            ],
+                            [
+                                27117,
+                                16
+                            ],
+                            [
+                                27153,
+                                75
+                            ],
+                            [
+                                27359,
+                                33
+                            ],
+                            [
+                                27416,
+                                17
+                            ],
+                            [
+                                27453,
+                                76
+                            ],
+                            [
+                                27658,
+                                35
+                            ],
+                            [
+                                27714,
+                                19
+                            ],
+                            [
+                                27753,
+                                47
+                            ],
+                            [
+                                27824,
+                                5
+                            ],
+                            [
+                                27958,
+                                36
+                            ],
+                            [
+                                28012,
+                                5
+                            ],
+                            [
+                                28025,
+                                8
+                            ],
+                            [
+                                28053,
+                                46
+                            ],
+                            [
+                                28125,
+                                5
+                            ],
+                            [
+                                28257,
+                                38
+                            ],
+                            [
+                                28310,
+                                6
+                            ],
+                            [
+                                28325,
+                                8
+                            ],
+                            [
+                                28352,
+                                47
+                            ],
+                            [
+                                28425,
+                                5
+                            ],
+                            [
+                                28557,
+                                43
+                            ],
+                            [
+                                28601,
+                                1
+                            ],
+                            [
+                                28604,
+                                12
+                            ],
+                            [
+                                28625,
+                                8
+                            ],
+                            [
+                                28652,
+                                47
+                            ],
+                            [
+                                28725,
+                                5
+                            ],
+                            [
+                                28856,
+                                60
+                            ],
+                            [
+                                28925,
+                                8
+                            ],
+                            [
+                                28952,
+                                47
+                            ],
+                            [
+                                29026,
+                                5
+                            ],
+                            [
+                                29156,
+                                60
+                            ],
+                            [
+                                29225,
+                                9
+                            ],
+                            [
+                                29252,
+                                47
+                            ],
+                            [
+                                29326,
+                                5
+                            ],
+                            [
+                                29455,
+                                61
+                            ],
+                            [
+                                29525,
+                                9
+                            ],
+                            [
+                                29551,
+                                48
+                            ],
+                            [
+                                29626,
+                                6
+                            ],
+                            [
+                                29755,
+                                60
+                            ],
+                            [
+                                29825,
+                                9
+                            ],
+                            [
+                                29851,
+                                49
+                            ],
+                            [
+                                29927,
+                                5
+                            ],
+                            [
+                                30054,
+                                61
+                            ],
+                            [
+                                30125,
+                                10
+                            ],
+                            [
+                                30150,
+                                50
+                            ],
+                            [
+                                30227,
+                                5
+                            ],
+                            [
+                                30354,
+                                61
+                            ],
+                            [
+                                30425,
+                                11
+                            ],
+                            [
+                                30450,
+                                50
+                            ],
+                            [
+                                30527,
+                                6
+                            ],
+                            [
+                                30653,
+                                62
+                            ],
+                            [
+                                30725,
+                                12
+                            ],
+                            [
+                                30749,
+                                51
+                            ],
+                            [
+                                30828,
+                                5
+                            ],
+                            [
+                                30953,
+                                62
+                            ],
+                            [
+                                31024,
+                                14
+                            ],
+                            [
+                                31047,
+                                54
+                            ],
+                            [
+                                31128,
+                                6
+                            ],
+                            [
+                                31252,
+                                63
+                            ],
+                            [
+                                31324,
+                                17
+                            ],
+                            [
+                                31344,
+                                57
+                            ],
+                            [
+                                31429,
+                                5
+                            ],
+                            [
+                                31552,
+                                149
+                            ],
+                            [
+                                31729,
+                                5
+                            ],
+                            [
+                                31852,
+                                149
+                            ],
+                            [
+                                32029,
+                                6
+                            ],
+                            [
+                                32151,
+                                151
+                            ],
+                            [
+                                32330,
+                                5
+                            ],
+                            [
+                                32451,
+                                151
+                            ],
+                            [
+                                32630,
+                                5
+                            ],
+                            [
+                                32750,
+                                152
+                            ],
+                            [
+                                32930,
+                                6
+                            ],
+                            [
+                                33050,
+                                152
+                            ],
+                            [
+                                33231,
+                                5
+                            ],
+                            [
+                                33349,
+                                153
+                            ],
+                            [
+                                33531,
+                                6
+                            ],
+                            [
+                                33649,
+                                154
+                            ],
+                            [
+                                33832,
+                                5
+                            ],
+                            [
+                                33948,
+                                155
+                            ],
+                            [
+                                34132,
+                                5
+                            ],
+                            [
+                                34248,
+                                155
+                            ],
+                            [
+                                34432,
+                                6
+                            ],
+                            [
+                                34547,
+                                156
+                            ],
+                            [
+                                34733,
+                                5
+                            ],
+                            [
+                                34847,
+                                157
+                            ],
+                            [
+                                35033,
+                                6
+                            ],
+                            [
+                                35146,
+                                158
+                            ],
+                            [
+                                35333,
+                                6
+                            ],
+                            [
+                                35446,
+                                158
+                            ],
+                            [
+                                35634,
+                                5
+                            ],
+                            [
+                                35745,
+                                159
+                            ],
+                            [
+                                35934,
+                                6
+                            ],
+                            [
+                                36045,
+                                160
+                            ],
+                            [
+                                36235,
+                                5
+                            ],
+                            [
+                                36344,
+                                161
+                            ],
+                            [
+                                36534,
+                                6
+                            ],
+                            [
+                                36644,
+                                161
+                            ],
+                            [
+                                36833,
+                                8
+                            ],
+                            [
+                                36944,
+                                161
+                            ],
+                            [
+                                37132,
+                                9
+                            ],
+                            [
+                                37243,
+                                163
+                            ],
+                            [
+                                37432,
+                                10
+                            ],
+                            [
+                                37543,
+                                163
+                            ],
+                            [
+                                37732,
+                                10
+                            ],
+                            [
+                                37842,
+                                200
+                            ],
+                            [
+                                38142,
+                                201
+                            ],
+                            [
+                                38441,
+                                202
+                            ],
+                            [
+                                38741,
+                                203
+                            ],
+                            [
+                                39040,
+                                204
+                            ],
+                            [
+                                39340,
+                                204
+                            ],
+                            [
+                                39639,
+                                206
+                            ],
+                            [
+                                39939,
+                                206
+                            ],
+                            [
+                                40238,
+                                208
+                            ],
+                            [
+                                40538,
+                                208
+                            ],
+                            [
+                                40839,
+                                207
+                            ],
+                            [
+                                41140,
+                                205
+                            ],
+                            [
+                                41450,
+                                194
+                            ],
+                            [
+                                41751,
+                                184
+                            ],
+                            [
+                                42052,
+                                182
+                            ],
+                            [
+                                42353,
+                                180
+                            ],
+                            [
+                                42654,
+                                178
+                            ],
+                            [
+                                42955,
+                                22
+                            ],
+                            [
+                                42979,
+                                152
+                            ],
+                            [
+                                43256,
+                                20
+                            ],
+                            [
+                                43281,
+                                124
+                            ],
+                            [
+                                43409,
+                                22
+                            ],
+                            [
+                                43557,
+                                18
+                            ],
+                            [
+                                43583,
+                                120
+                            ],
+                            [
+                                43710,
+                                20
+                            ],
+                            [
+                                43858,
+                                12
+                            ],
+                            [
+                                43888,
+                                113
+                            ],
+                            [
+                                44011,
+                                18
+                            ],
+                            [
+                                44159,
+                                12
+                            ],
+                            [
+                                44317,
+                                11
+                            ],
+                            [
+                                44460,
+                                12
+                            ],
+                            [
+                                44616,
+                                11
+                            ],
+                            [
+                                44761,
+                                12
+                            ],
+                            [
+                                44915,
+                                11
+                            ],
+                            [
+                                45063,
+                                11
+                            ],
+                            [
+                                45215,
+                                10
+                            ],
+                            [
+                                45364,
+                                11
+                            ],
+                            [
+                                45514,
+                                10
+                            ],
+                            [
+                                45665,
+                                11
+                            ],
+                            [
+                                45813,
+                                11
+                            ],
+                            [
+                                45966,
+                                10
+                            ],
+                            [
+                                46112,
+                                11
+                            ],
+                            [
+                                46267,
+                                10
+                            ],
+                            [
+                                46412,
+                                10
+                            ],
+                            [
+                                46568,
+                                10
+                            ],
+                            [
+                                46711,
+                                10
+                            ],
+                            [
+                                46869,
+                                10
+                            ],
+                            [
+                                47010,
+                                10
+                            ],
+                            [
+                                47170,
+                                10
+                            ],
+                            [
+                                47310,
+                                9
+                            ],
+                            [
+                                47471,
+                                10
+                            ],
+                            [
+                                47609,
+                                9
+                            ],
+                            [
+                                47772,
+                                10
+                            ],
+                            [
+                                47908,
+                                9
+                            ],
+                            [
+                                48073,
+                                9
+                            ],
+                            [
+                                48207,
+                                10
+                            ],
+                            [
+                                48374,
+                                9
+                            ],
+                            [
+                                48507,
+                                9
+                            ],
+                            [
+                                48675,
+                                9
+                            ],
+                            [
+                                48806,
+                                9
+                            ],
+                            [
+                                48976,
+                                9
+                            ],
+                            [
+                                49105,
+                                9
+                            ],
+                            [
+                                49277,
+                                9
+                            ],
+                            [
+                                49405,
+                                8
+                            ],
+                            [
+                                49578,
+                                9
+                            ],
+                            [
+                                49704,
+                                8
+                            ],
+                            [
+                                49879,
+                                9
+                            ],
+                            [
+                                50003,
+                                8
+                            ],
+                            [
+                                50180,
+                                9
+                            ],
+                            [
+                                50302,
+                                8
+                            ],
+                            [
+                                50481,
+                                8
+                            ],
+                            [
+                                50602,
+                                8
+                            ],
+                            [
+                                50782,
+                                8
+                            ],
+                            [
+                                50901,
+                                8
+                            ],
+                            [
+                                51083,
+                                8
+                            ],
+                            [
+                                51200,
+                                8
+                            ],
+                            [
+                                51384,
+                                8
+                            ],
+                            [
+                                51499,
+                                8
+                            ],
+                            [
+                                51685,
+                                8
+                            ],
+                            [
+                                51799,
+                                7
+                            ],
+                            [
+                                51986,
+                                8
+                            ],
+                            [
+                                52098,
+                                7
+                            ],
+                            [
+                                52287,
+                                8
+                            ],
+                            [
+                                52397,
+                                7
+                            ],
+                            [
+                                52588,
+                                7
+                            ],
+                            [
+                                52697,
+                                6
+                            ],
+                            [
+                                52889,
+                                7
+                            ],
+                            [
+                                52996,
+                                7
+                            ],
+                            [
+                                53190,
+                                7
+                            ],
+                            [
+                                53295,
+                                7
+                            ],
+                            [
+                                53491,
+                                7
+                            ],
+                            [
+                                53594,
+                                7
+                            ],
+                            [
+                                53792,
+                                6
+                            ],
+                            [
+                                53894,
+                                6
+                            ],
+                            [
+                                54093,
+                                5
+                            ],
+                            [
+                                54194,
+                                5
+                            ],
+                            [
+                                54494,
+                                4
+                            ]
+                        ],
+                        "point": [
+                            141,
+                            122
+                        ]
+                    }
+                },
+                "high_idx": 3
+            }
+        ]
+    },
+    "scene": {
+        "dirty_and_empty": false,
+        "floor_plan": "FloorPlan104",
+        "init_action": {
+            "action": "TeleportFull",
+            "horizon": 30,
+            "position": {
+                "x": 5.25,
+                "y": 0.9031611680984497,
+                "z": -0.25
+            },
+            "rotation": {
+                "x": 0,
+                "y": 270,
+                "z": 0
+            },
+            "standing": true
+        },
+        "object_poses": [
+            {
+                "objectName": "Mug_3",
+                "position": {
+                    "x": 5.306036472320557,
+                    "y": 1.104419469833374,
+                    "z": -1.808998703956604
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 90.00022888183594,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "pillow_1",
+                "position": {
+                    "x": 5.627480506896973,
+                    "y": 0.4105571508407593,
+                    "z": 2.3295605182647705
+                },
+                "rotation": {
+                    "x": 359.9806823730469,
+                    "y": 181.13775634765625,
+                    "z": 0.49587327241897583
+                }
+            },
+            {
+                "objectName": "pillow_1",
+                "position": {
+                    "x": 6.074974060058594,
+                    "y": 1.6704131364822388,
+                    "z": 0.3905218541622162
+                },
+                "rotation": {
+                    "x": 359.9837341308594,
+                    "y": 0.003109518438577652,
+                    "z": 0.0007715061074122787
+                }
+            },
+            {
+                "objectName": "Lettuce_3",
+                "position": {
+                    "x": -0.7695892453193665,
+                    "y": 0.949463963508606,
+                    "z": -3.154378890991211
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Soap_Bar_1",
+                "position": {
+                    "x": 5.3316826820373535,
+                    "y": 1.102068305015564,
+                    "z": -1.6122839450836182
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 90.00022888183594,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Knife_5",
+                "position": {
+                    "x": 1.4934983253479004,
+                    "y": 0.4597897529602051,
+                    "z": 2.4490015506744385
+                },
+                "rotation": {
+                    "x": 7.936890324344859e-05,
+                    "y": 179.99986267089844,
+                    "z": 0.44380423426628113
+                }
+            },
+            {
+                "objectName": "Knife_5",
+                "position": {
+                    "x": 6.192761421203613,
+                    "y": 0.850767970085144,
+                    "z": -2.800154209136963
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 270.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Bottle_1",
+                "position": {
+                    "x": -1.7947160005569458,
+                    "y": 0.10987105220556259,
+                    "z": -0.14363838732242584
+                },
+                "rotation": {
+                    "x": 0.252545028924942,
+                    "y": 359.9149169921875,
+                    "z": 0.688807487487793
+                }
+            },
+            {
+                "objectName": "Bottle_1",
+                "position": {
+                    "x": 6.719271659851074,
+                    "y": 1.600075125694275,
+                    "z": 0.4892202615737915
+                },
+                "rotation": {
+                    "x": 359.9768981933594,
+                    "y": 0.06106774881482124,
+                    "z": 359.9940490722656
+                }
+            },
+            {
+                "objectName": "Book_6",
+                "position": {
+                    "x": -1.513008713722229,
+                    "y": 1.717646837234497,
+                    "z": -0.2850706875324249
+                },
+                "rotation": {
+                    "x": 359.3111877441406,
+                    "y": 89.911865234375,
+                    "z": 0.25256314873695374
+                }
+            },
+            {
+                "objectName": "Book_6",
+                "position": {
+                    "x": -0.4080619215965271,
+                    "y": 0.9168977737426758,
+                    "z": -0.8659915924072266
+                },
+                "rotation": {
+                    "x": 359.7162780761719,
+                    "y": 90.00042724609375,
+                    "z": 359.8391418457031
+                }
+            },
+            {
+                "objectName": "Dresser_210_1_1",
+                "position": {
+                    "x": 4.210010051727295,
+                    "y": -0.04192464053630829,
+                    "z": 2.631002902984619
+                },
+                "rotation": {
+                    "x": -0.0004902703803963959,
+                    "y": 270.0000915527344,
+                    "z": 0.0001799634046619758
+                }
+            },
+            {
+                "objectName": "Dresser_05cb66e0 (1)",
+                "position": {
+                    "x": 1.164516568183899,
+                    "y": -0.02438795566558838,
+                    "z": -3.2958264350891113
+                },
+                "rotation": {
+                    "x": 359.802978515625,
+                    "y": 0.16521215438842773,
+                    "z": 0.0935080349445343
+                }
+            },
+            {
+                "objectName": "Dresser_218_Master",
+                "position": {
+                    "x": 4.890372276306152,
+                    "y": 0.005074024200439453,
+                    "z": 1.2385085821151733
+                },
+                "rotation": {
+                    "x": 0.000628273468464613,
+                    "y": 90.40318298339844,
+                    "z": -0.0007086294936016202
+                }
+            },
+            {
+                "objectName": "Dresser_301_1 (4)",
+                "position": {
+                    "x": 12.21455192565918,
+                    "y": 0.003396153450012207,
+                    "z": -0.6336535215377808
+                },
+                "rotation": {
+                    "x": 0.5258110165596008,
+                    "y": 270.4842529296875,
+                    "z": 359.9878845214844
+                }
+            },
+            {
+                "objectName": "ShelvingUnit_92b3f0ba",
+                "position": {
+                    "x": 6.895538806915283,
+                    "y": -0.11965334415435791,
+                    "z": 0.38219156861305237
+                },
+                "rotation": {
+                    "x": 359.9768981933594,
+                    "y": 0.06106774881482124,
+                    "z": 359.9940490722656
+                }
+            },
+            {
+                "objectName": "Television_79655156",
+                "position": {
+                    "x": 4.505000114440918,
+                    "y": 1.4850000143051147,
+                    "z": 1.9559999704360962
+                },
+                "rotation": {
+                    "x": 0.05641886964440346,
+                    "y": 270.00506591796875,
+                    "z": 0.009090123698115349
+                }
+            },
+            {
+                "objectName": "Chair_304_1",
+                "position": {
+                    "x": -0.28420397639274597,
+                    "y": 0.010401129722595215,
+                    "z": -1.3009697198867798
+                },
+                "rotation": {
+                    "x": 359.4927673339844,
+                    "y": 269.9585266113281,
+                    "z": 359.1202087402344
+                }
+            },
+            {
+                "objectName": "Dresser_301_1 (3)",
+                "position": {
+                    "x": 12.212712287902832,
+                    "y": 0.0033044815063476562,
+                    "z": -1.7530462741851807
+                },
+                "rotation": {
+                    "x": 0.5247160196304321,
+                    "y": 269.4126281738281,
+                    "z": 359.9868469238281
+                }
+            },
+            {
+                "objectName": "Dresser_05cb66e0 (2)",
+                "position": {
+                    "x": 1.9118040800094604,
+                    "y": -0.022675156593322754,
+                    "z": -3.298733711242676
+                },
+                "rotation": {
+                    "x": 359.7942199707031,
+                    "y": 0.10859134793281555,
+                    "z": 0.12542328238487244
+                }
+            },
+            {
+                "objectName": "Bed_04362152",
+                "position": {
+                    "x": 9.5082426071167,
+                    "y": -0.08695441484451294,
+                    "z": -2.79886531829834
+                },
+                "rotation": {
+                    "x": 359.5447998046875,
+                    "y": 270.1219482421875,
+                    "z": 359.2783203125
+                }
+            },
+            {
+                "objectName": "Bed_04362152 (1)",
+                "position": {
+                    "x": 5.683871746063232,
+                    "y": -0.09515233337879181,
+                    "z": 2.088331937789917
+                },
+                "rotation": {
+                    "x": 359.5041198730469,
+                    "y": 271.1379089355469,
+                    "z": 359.9806823730469
+                }
+            },
+            {
+                "objectName": "Book_6",
+                "position": {
+                    "x": 6.05269718170166,
+                    "y": 0.3367462754249573,
+                    "z": 1.9611836671829224
+                },
+                "rotation": {
+                    "x": 0.4958733320236206,
+                    "y": 91.1379165649414,
+                    "z": 0.019315509125590324
+                }
+            },
+            {
+                "objectName": "ShelvingUnit_c8661f9a",
+                "position": {
+                    "x": -1.338607907295227,
+                    "y": -0.01211404800415039,
+                    "z": -0.22604617476463318
+                },
+                "rotation": {
+                    "x": 0.25254449248313904,
+                    "y": 359.9149475097656,
+                    "z": 0.6888079643249512
+                }
+            },
+            {
+                "objectName": "ShelvingUnit_92b3f0ba (2)",
+                "position": {
+                    "x": 6.074997901916504,
+                    "y": -0.11970317363739014,
+                    "z": 0.38002997636795044
+                },
+                "rotation": {
+                    "x": 359.9837341308594,
+                    "y": 0.003109518438577652,
+                    "z": 0.0007715061074122787
+                }
+            },
+            {
+                "objectName": "Dresser_301_1",
+                "position": {
+                    "x": 12.220239639282227,
+                    "y": 0.0035582780838012695,
+                    "z": -2.865429401397705
+                },
+                "rotation": {
+                    "x": 0.43290773034095764,
+                    "y": 269.8612365722656,
+                    "z": 0.03391960635781288
+                }
+            },
+            {
+                "objectName": "dining_table",
+                "position": {
+                    "x": -0.5718197226524353,
+                    "y": -0.032479286193847656,
+                    "z": -1.2878377437591553
+                },
+                "rotation": {
+                    "x": 359.7162780761719,
+                    "y": 90.00042724609375,
+                    "z": 359.8391418457031
+                }
+            },
+            {
+                "objectName": "Bottle_1",
+                "position": {
+                    "x": 9.228647232055664,
+                    "y": 0.3561793267726898,
+                    "z": -3.2806766033172607
+                },
+                "rotation": {
+                    "x": 0.4552001953125,
+                    "y": 90.1219482421875,
+                    "z": 0.7216700911521912
+                }
+            },
+            {
+                "objectName": "Knife_5",
+                "position": {
+                    "x": 5.605964183807373,
+                    "y": 0.8500531911849976,
+                    "z": -2.8292055130004883
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 270.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Soap_Bar_1",
+                "position": {
+                    "x": -0.49228334426879883,
+                    "y": 0.9147351980209351,
+                    "z": -1.4349474906921387
+                },
+                "rotation": {
+                    "x": 359.7162780761719,
+                    "y": 90.00042724609375,
+                    "z": 359.8391418457031
+                }
+            },
+            {
+                "objectName": "Plate_6",
+                "position": {
+                    "x": -0.7449634075164795,
+                    "y": 0.9144209623336792,
+                    "z": -1.1504675149917603
+                },
+                "rotation": {
+                    "x": 359.7162780761719,
+                    "y": 90.00042724609375,
+                    "z": 359.8391418457031
+                }
+            },
+            {
+                "objectName": "Potato_25",
+                "position": {
+                    "x": 1.9260201454162598,
+                    "y": 0.47101324796676636,
+                    "z": 2.449002742767334
+                },
+                "rotation": {
+                    "x": 0.44380423426628113,
+                    "y": 89.9998550415039,
+                    "z": -7.943001401145011e-05
+                }
+            },
+            {
+                "objectName": "Pot_12",
+                "position": {
+                    "x": 5.18439245223999,
+                    "y": 0.3461835980415344,
+                    "z": 1.8584622144699097
+                },
+                "rotation": {
+                    "x": 0.4958733320236206,
+                    "y": 91.1379165649414,
+                    "z": 0.019315509125590324
+                }
+            },
+            {
+                "objectName": "Lettuce_3",
+                "position": {
+                    "x": 1.6019952297210693,
+                    "y": 0.5096214413642883,
+                    "z": 1.6059057712554932
+                },
+                "rotation": {
+                    "x": 0.44380423426628113,
+                    "y": 89.9998550415039,
+                    "z": -7.943001401145011e-05
+                }
+            },
+            {
+                "objectName": "Pot_19",
+                "position": {
+                    "x": -0.6546627879142761,
+                    "y": 0.8921739459037781,
+                    "z": -1.560739517211914
+                },
+                "rotation": {
+                    "x": 359.83929443359375,
+                    "y": 0.0019779037684202194,
+                    "z": 0.28440314531326294
+                }
+            },
+            {
+                "objectName": "pillow_1",
+                "position": {
+                    "x": 1.6019738912582397,
+                    "y": 0.5074299573898315,
+                    "z": 3.292097568511963
+                },
+                "rotation": {
+                    "x": 0.44380423426628113,
+                    "y": 89.9998550415039,
+                    "z": -7.943001401145011e-05
+                }
+            },
+            {
+                "objectName": "Tomato_20",
+                "position": {
+                    "x": -0.492556631565094,
+                    "y": 0.970137357711792,
+                    "z": -1.2928626537322998
+                },
+                "rotation": {
+                    "x": 359.7162780761719,
+                    "y": 90.00042724609375,
+                    "z": 359.8391418457031
+                }
+            },
+            {
+                "objectName": "Microwave_28",
+                "position": {
+                    "x": 1.387296199798584,
+                    "y": 0.9156450033187866,
+                    "z": -3.2433207035064697
+                },
+                "rotation": {
+                    "x": 359.87457275390625,
+                    "y": 359.0690002441406,
+                    "z": 0.3821285665035248
+                }
+            },
+            {
+                "objectName": "Sofa_221_Master",
+                "position": {
+                    "x": 1.5397841930389404,
+                    "y": -0.04067659378051758,
+                    "z": 2.449002265930176
+                },
+                "rotation": {
+                    "x": 0.44380423426628113,
+                    "y": 89.9998550415039,
+                    "z": -7.943001401145011e-05
+                }
+            },
+            {
+                "objectName": "Mug_3",
+                "position": {
+                    "x": 5.254751682281494,
+                    "y": 1.1018872261047363,
+                    "z": -1.94014310836792
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 90.00022888183594,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Dresser_05cb66e0",
+                "position": {
+                    "x": 0.3563106954097748,
+                    "y": -0.021506786346435547,
+                    "z": -3.293567657470703
+                },
+                "rotation": {
+                    "x": 359.7819519042969,
+                    "y": 359.9377136230469,
+                    "z": 0.10706630349159241
+                }
+            }
+        ],
+        "object_toggles": [],
+        "random_seed": 946297681,
+        "scene_num": 104
+    },
+    "task_id": "trial_T20230514_184555_097084",
+    "task_type": "pick_and_place_simple",
+    "turk_annotations": {
+        "anns": [
+            {
+                "assignment_id": "3AAJC4I4FWENAHYZG0GO6S468V7JZP",
+                "high_descs": [
+                    "walk around and reach fridge",
+                    "pick up lettuce from fridge and close it",
+                    "walk around and reach diningtable along with lettuce",
+                    "place lettuce on the diningtable"
+                ],
+                "task_desc": "pick up lettuce from fridge and place it on the diningtable",
+                "vote1": [
+                    0,
+                    0
+                ],
+                "vote2": [
+                    1,
+                    0,
+                    1
+                ],
+                "updated1": true
+            },
+            {
+                "assignment_id": "3RWE2M8QWXWMRMJUR4VOT0I1Z940NV",
+                "high_descs": [
+                    "turn around go straight and turn left to reach the fridge \n",
+                    "take on the lettuce",
+                    "turn  around  the  right  side  dining table\n",
+                    "put in the lettuce in dining table"
+                ],
+                "task_desc": "put in the lettuce in dining table",
+                "vote1": [
+                    1,
+                    1
+                ],
+                "vote2": [
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "assignment_id": "317HQ483INEXYH0AVUKUZ4IXL43INS",
+                "high_descs": [
+                    "After turning around and going straight, proceed to turn to the left towards the table.",
+                    "Pick up lettuce from the desk.",
+                    "Turn around and turn left and then head straight towards the dining table",
+                    "Place lettuce on the dining table."
+                ],
+                "task_desc": "Changing lettuce from one place to another.",
+                "vote1": [
+                    1,
+                    1
+                ],
+                "vote2": [
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    }
+}

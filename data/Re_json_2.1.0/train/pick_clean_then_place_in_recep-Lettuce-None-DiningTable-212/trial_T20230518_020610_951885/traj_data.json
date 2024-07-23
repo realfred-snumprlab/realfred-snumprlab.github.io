@@ -1,0 +1,4471 @@
+{
+    "images": [
+        {
+            "high_idx": 0,
+            "image_name": "000000000.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000001.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000002.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000003.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000004.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000005.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000006.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000007.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000008.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000009.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000010.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000011.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000012.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000013.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000014.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000015.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000016.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000017.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000018.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000019.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000020.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000021.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000022.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000023.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000024.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000025.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000026.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000027.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000028.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000029.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000030.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000031.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000032.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000033.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000034.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000035.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000036.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000037.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000038.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000039.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000040.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000041.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000042.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000043.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000044.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000045.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000046.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000047.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000048.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000049.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000050.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000051.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000052.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000053.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000054.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000055.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000056.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000057.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000058.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000059.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000060.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000061.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000062.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000063.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000064.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000065.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000066.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000067.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000068.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000069.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000070.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000071.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000072.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000073.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000074.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000075.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000076.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000077.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000078.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000079.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000080.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000081.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000082.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000083.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000084.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000085.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000086.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000087.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000088.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000089.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000090.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000091.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000092.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000093.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000094.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000095.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000096.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000097.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000098.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000099.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000100.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000101.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000102.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000103.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000104.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000105.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000106.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000107.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000108.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000109.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000110.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000111.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000112.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000113.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000114.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000115.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000116.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000117.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000118.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000119.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000120.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000121.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000122.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000123.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000124.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000125.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000126.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000127.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000128.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000129.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000130.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000131.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000132.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000133.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000134.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000135.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000136.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000137.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000138.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000139.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000140.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000141.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000142.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000143.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000144.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000145.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000146.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000147.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000148.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000149.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000150.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000151.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000152.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000153.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000154.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000155.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000156.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000157.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000158.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000159.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000160.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000161.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000162.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000163.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000164.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000165.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000166.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000167.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000168.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000169.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000170.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000171.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000172.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000173.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000174.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000175.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000176.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000177.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000178.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000179.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000180.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000181.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000182.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000183.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000184.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000185.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000186.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000187.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000188.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000189.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000190.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000191.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000192.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000193.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000194.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000195.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000196.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000197.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000198.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000199.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000200.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000201.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000202.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000203.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000204.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000205.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000206.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000207.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000208.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000209.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000210.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000211.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000212.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000213.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000214.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000215.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000216.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000217.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000218.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000219.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000220.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000221.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000222.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000223.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000224.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000225.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000226.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000227.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000228.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000229.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000230.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000231.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000232.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000233.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000234.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000235.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000236.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000237.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000238.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000239.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000240.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000241.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000242.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000243.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000244.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000245.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000246.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000247.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000248.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000249.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000250.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000251.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000252.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000253.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000254.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000255.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000256.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000257.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000258.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000259.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000260.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000261.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000262.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000263.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000264.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000265.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000266.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000267.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000268.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000269.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000270.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000271.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000272.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000273.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000274.png",
+            "low_idx": 58
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000275.png",
+            "low_idx": 58
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000276.png",
+            "low_idx": 59
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000277.png",
+            "low_idx": 59
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000278.png",
+            "low_idx": 60
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000279.png",
+            "low_idx": 60
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000280.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000281.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000282.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000283.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000284.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000285.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000286.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000287.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000288.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000289.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000290.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000291.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000292.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000293.png",
+            "low_idx": 63
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000294.png",
+            "low_idx": 63
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000295.png",
+            "low_idx": 64
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000296.png",
+            "low_idx": 64
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000297.png",
+            "low_idx": 65
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000298.png",
+            "low_idx": 65
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000299.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000300.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000301.png",
+            "low_idx": 67
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000302.png",
+            "low_idx": 67
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000303.png",
+            "low_idx": 68
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000304.png",
+            "low_idx": 68
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000305.png",
+            "low_idx": 69
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000306.png",
+            "low_idx": 69
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000307.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000308.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000309.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000310.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000311.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000312.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000313.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000314.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000315.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000316.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000317.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000318.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000319.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000320.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000321.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000322.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000323.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000324.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000325.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000326.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000327.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000328.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000329.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000330.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000331.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000332.png",
+            "low_idx": 71
+        }
+    ],
+    "pddl_params": {
+        "mrecep_target": "",
+        "object_sliced": false,
+        "object_target": "Lettuce",
+        "parent_target": "DiningTable",
+        "toggle_target": ""
+    },
+    "plan": {
+        "high_pddl": [
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "lettuce"
+                    ]
+                },
+                "high_idx": 0,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|19|-13|0|45"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": [
+                        "lettuce"
+                    ]
+                },
+                "high_idx": 1,
+                "planner_action": {
+                    "action": "PickupObject",
+                    "forceVisible": true,
+                    "objectId": "Lettuce|+04.64|+00.98|-02.68"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "sink"
+                    ]
+                },
+                "high_idx": 2,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|16|-8|1|60"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "CleanObject",
+                    "args": [
+                        "lettuce"
+                    ]
+                },
+                "high_idx": 3,
+                "planner_action": {
+                    "action": "CleanObject",
+                    "cleanObjectId": "Sink|+04.71|+00.87|-02.00|SinkBasin",
+                    "forceVisible": true,
+                    "objectId": "Sink|+04.71|+00.87|-02.00|SinkBasin",
+                    "receptacleObjectId": "Sink|+04.71|+00.87|-02.00|SinkBasin"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "diningtable"
+                    ]
+                },
+                "high_idx": 4,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|23|-14|1|60"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": [
+                        "lettuce",
+                        "diningtable"
+                    ]
+                },
+                "high_idx": 5,
+                "planner_action": {
+                    "action": "PutObject",
+                    "forceVisible": true,
+                    "objectId": "Lettuce|+04.64|+00.98|-02.68",
+                    "receptacleObjectId": "DiningTable|+06.55|+00.03|-03.41"
+                }
+            }
+        ],
+        "low_actions": [
+            {
+                "api_action": {
+                    "action": "LookDown"
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "Lettuce|+04.64|+00.98|-02.68"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            121,
+                            147,
+                            137,
+                            171
+                        ],
+                        "mask": [
+                            [
+                                44227,
+                                5
+                            ],
+                            [
+                                44526,
+                                8
+                            ],
+                            [
+                                44825,
+                                11
+                            ],
+                            [
+                                45124,
+                                13
+                            ],
+                            [
+                                45423,
+                                14
+                            ],
+                            [
+                                45723,
+                                14
+                            ],
+                            [
+                                46023,
+                                15
+                            ],
+                            [
+                                46322,
+                                16
+                            ],
+                            [
+                                46622,
+                                16
+                            ],
+                            [
+                                46922,
+                                16
+                            ],
+                            [
+                                47222,
+                                16
+                            ],
+                            [
+                                47522,
+                                16
+                            ],
+                            [
+                                47821,
+                                17
+                            ],
+                            [
+                                48121,
+                                17
+                            ],
+                            [
+                                48421,
+                                17
+                            ],
+                            [
+                                48722,
+                                16
+                            ],
+                            [
+                                49022,
+                                16
+                            ],
+                            [
+                                49322,
+                                16
+                            ],
+                            [
+                                49623,
+                                14
+                            ],
+                            [
+                                49923,
+                                14
+                            ],
+                            [
+                                50224,
+                                12
+                            ],
+                            [
+                                50524,
+                                11
+                            ],
+                            [
+                                50825,
+                                9
+                            ],
+                            [
+                                51126,
+                                6
+                            ],
+                            [
+                                51429,
+                                1
+                            ]
+                        ],
+                        "point": [
+                            129,
+                            159
+                        ]
+                    }
+                },
+                "high_idx": 1
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "LookDown",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "PutObject",
+                    "forceAction": true,
+                    "objectId": "Sink|+04.71|+00.87|-02.00|SinkBasin",
+                    "placeStationary": true
+                },
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": {
+                        "bbox": [
+                            112,
+                            130,
+                            162,
+                            136
+                        ],
+                        "mask": [
+                            [
+                                39115,
+                                1
+                            ],
+                            [
+                                39117,
+                                1
+                            ],
+                            [
+                                39158,
+                                1
+                            ],
+                            [
+                                39414,
+                                1
+                            ],
+                            [
+                                39417,
+                                1
+                            ],
+                            [
+                                39455,
+                                2
+                            ],
+                            [
+                                39459,
+                                1
+                            ],
+                            [
+                                39712,
+                                2
+                            ],
+                            [
+                                39754,
+                                2
+                            ],
+                            [
+                                40012,
+                                2
+                            ],
+                            [
+                                40020,
+                                1
+                            ],
+                            [
+                                40054,
+                                2
+                            ],
+                            [
+                                40062,
+                                1
+                            ],
+                            [
+                                40313,
+                                1
+                            ],
+                            [
+                                40319,
+                                1
+                            ],
+                            [
+                                40355,
+                                1
+                            ],
+                            [
+                                40361,
+                                1
+                            ],
+                            [
+                                40614,
+                                2
+                            ],
+                            [
+                                40618,
+                                1
+                            ],
+                            [
+                                40656,
+                                1
+                            ],
+                            [
+                                40659,
+                                2
+                            ],
+                            [
+                                40915,
+                                1
+                            ],
+                            [
+                                40917,
+                                1
+                            ],
+                            [
+                                40956,
+                                1
+                            ],
+                            [
+                                40959,
+                                1
+                            ]
+                        ],
+                        "point": [
+                            120,
+                            133
+                        ]
+                    }
+                },
+                "high_idx": 3
+            },
+            {
+                "api_action": {
+                    "action": "ToggleObjectOn",
+                    "cleanObjectId": "Sink|+04.71|+00.87|-02.00|SinkBasin",
+                    "forceVisible": true,
+                    "objectId": "Faucet|+04.89|+00.94|-01.75",
+                    "receptacleObjectId": "Sink|+04.71|+00.87|-02.00|SinkBasin"
+                },
+                "discrete_action": {
+                    "action": "ToggleObjectOn",
+                    "args": {
+                        "bbox": [
+                            103,
+                            50,
+                            116,
+                            83
+                        ],
+                        "mask": [
+                            [
+                                15105,
+                                3
+                            ],
+                            [
+                                15404,
+                                5
+                            ],
+                            [
+                                15703,
+                                6
+                            ],
+                            [
+                                16003,
+                                7
+                            ],
+                            [
+                                16303,
+                                7
+                            ],
+                            [
+                                16603,
+                                8
+                            ],
+                            [
+                                16903,
+                                8
+                            ],
+                            [
+                                17203,
+                                4
+                            ],
+                            [
+                                17208,
+                                4
+                            ],
+                            [
+                                17503,
+                                4
+                            ],
+                            [
+                                17508,
+                                4
+                            ],
+                            [
+                                17803,
+                                4
+                            ],
+                            [
+                                17808,
+                                4
+                            ],
+                            [
+                                18103,
+                                4
+                            ],
+                            [
+                                18109,
+                                3
+                            ],
+                            [
+                                18403,
+                                4
+                            ],
+                            [
+                                18409,
+                                4
+                            ],
+                            [
+                                18703,
+                                4
+                            ],
+                            [
+                                18709,
+                                4
+                            ],
+                            [
+                                19003,
+                                4
+                            ],
+                            [
+                                19009,
+                                4
+                            ],
+                            [
+                                19303,
+                                4
+                            ],
+                            [
+                                19310,
+                                3
+                            ],
+                            [
+                                19603,
+                                5
+                            ],
+                            [
+                                19610,
+                                3
+                            ],
+                            [
+                                19904,
+                                4
+                            ],
+                            [
+                                19910,
+                                3
+                            ],
+                            [
+                                20204,
+                                4
+                            ],
+                            [
+                                20211,
+                                3
+                            ],
+                            [
+                                20504,
+                                4
+                            ],
+                            [
+                                20511,
+                                3
+                            ],
+                            [
+                                20804,
+                                4
+                            ],
+                            [
+                                20811,
+                                3
+                            ],
+                            [
+                                21105,
+                                4
+                            ],
+                            [
+                                21111,
+                                3
+                            ],
+                            [
+                                21405,
+                                3
+                            ],
+                            [
+                                21412,
+                                2
+                            ],
+                            [
+                                21712,
+                                3
+                            ],
+                            [
+                                22012,
+                                3
+                            ],
+                            [
+                                22312,
+                                4
+                            ],
+                            [
+                                22612,
+                                4
+                            ],
+                            [
+                                22912,
+                                4
+                            ],
+                            [
+                                23204,
+                                12
+                            ],
+                            [
+                                23505,
+                                12
+                            ],
+                            [
+                                23808,
+                                9
+                            ],
+                            [
+                                24109,
+                                8
+                            ],
+                            [
+                                24413,
+                                4
+                            ],
+                            [
+                                24714,
+                                3
+                            ],
+                            [
+                                25014,
+                                2
+                            ]
+                        ],
+                        "point": [
+                            110,
+                            66
+                        ]
+                    }
+                },
+                "high_idx": 3
+            },
+            {
+                "api_action": {
+                    "action": "ToggleObjectOff",
+                    "cleanObjectId": "Sink|+04.71|+00.87|-02.00|SinkBasin",
+                    "forceVisible": true,
+                    "objectId": "Faucet|+04.89|+00.94|-01.75",
+                    "receptacleObjectId": "Sink|+04.71|+00.87|-02.00|SinkBasin"
+                },
+                "discrete_action": {
+                    "action": "ToggleObjectOff",
+                    "args": {
+                        "bbox": [
+                            103,
+                            50,
+                            116,
+                            83
+                        ],
+                        "mask": [
+                            [
+                                15105,
+                                3
+                            ],
+                            [
+                                15404,
+                                5
+                            ],
+                            [
+                                15703,
+                                6
+                            ],
+                            [
+                                16003,
+                                7
+                            ],
+                            [
+                                16303,
+                                7
+                            ],
+                            [
+                                16603,
+                                8
+                            ],
+                            [
+                                16903,
+                                8
+                            ],
+                            [
+                                17203,
+                                4
+                            ],
+                            [
+                                17208,
+                                4
+                            ],
+                            [
+                                17503,
+                                4
+                            ],
+                            [
+                                17508,
+                                4
+                            ],
+                            [
+                                17803,
+                                4
+                            ],
+                            [
+                                17808,
+                                4
+                            ],
+                            [
+                                18103,
+                                4
+                            ],
+                            [
+                                18109,
+                                3
+                            ],
+                            [
+                                18403,
+                                4
+                            ],
+                            [
+                                18409,
+                                4
+                            ],
+                            [
+                                18703,
+                                4
+                            ],
+                            [
+                                18709,
+                                4
+                            ],
+                            [
+                                19003,
+                                4
+                            ],
+                            [
+                                19009,
+                                4
+                            ],
+                            [
+                                19303,
+                                4
+                            ],
+                            [
+                                19310,
+                                3
+                            ],
+                            [
+                                19603,
+                                5
+                            ],
+                            [
+                                19610,
+                                3
+                            ],
+                            [
+                                19904,
+                                4
+                            ],
+                            [
+                                19910,
+                                3
+                            ],
+                            [
+                                20204,
+                                4
+                            ],
+                            [
+                                20211,
+                                3
+                            ],
+                            [
+                                20504,
+                                4
+                            ],
+                            [
+                                20511,
+                                3
+                            ],
+                            [
+                                20804,
+                                4
+                            ],
+                            [
+                                20811,
+                                3
+                            ],
+                            [
+                                21105,
+                                4
+                            ],
+                            [
+                                21111,
+                                3
+                            ],
+                            [
+                                21405,
+                                3
+                            ],
+                            [
+                                21412,
+                                2
+                            ],
+                            [
+                                21712,
+                                3
+                            ],
+                            [
+                                22012,
+                                3
+                            ],
+                            [
+                                22312,
+                                4
+                            ],
+                            [
+                                22612,
+                                4
+                            ],
+                            [
+                                22912,
+                                4
+                            ],
+                            [
+                                23204,
+                                12
+                            ],
+                            [
+                                23505,
+                                12
+                            ],
+                            [
+                                23808,
+                                9
+                            ],
+                            [
+                                24109,
+                                8
+                            ],
+                            [
+                                24413,
+                                4
+                            ],
+                            [
+                                24714,
+                                3
+                            ],
+                            [
+                                25014,
+                                2
+                            ]
+                        ],
+                        "point": [
+                            110,
+                            66
+                        ]
+                    }
+                },
+                "high_idx": 3
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "Lettuce|+04.64|+00.98|-02.68"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            115,
+                            100,
+                            138,
+                            115
+                        ],
+                        "mask": [
+                            [
+                                30121,
+                                10
+                            ],
+                            [
+                                30418,
+                                15
+                            ],
+                            [
+                                30717,
+                                18
+                            ],
+                            [
+                                31016,
+                                20
+                            ],
+                            [
+                                31316,
+                                21
+                            ],
+                            [
+                                31616,
+                                22
+                            ],
+                            [
+                                31916,
+                                23
+                            ],
+                            [
+                                32215,
+                                24
+                            ],
+                            [
+                                32516,
+                                23
+                            ],
+                            [
+                                32816,
+                                23
+                            ],
+                            [
+                                33117,
+                                21
+                            ],
+                            [
+                                33417,
+                                20
+                            ],
+                            [
+                                33718,
+                                17
+                            ],
+                            [
+                                34019,
+                                15
+                            ],
+                            [
+                                34321,
+                                12
+                            ],
+                            [
+                                34624,
+                                4
+                            ]
+                        ],
+                        "point": [
+                            126,
+                            107
+                        ]
+                    }
+                },
+                "high_idx": 3
+            },
+            {
+                "api_action": {
+                    "action": "LookUp"
+                },
+                "discrete_action": {
+                    "action": "LookUp_15",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "LookDown",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "PutObject",
+                    "forceAction": true,
+                    "objectId": "DiningTable|+06.55|+00.03|-03.41",
+                    "placeStationary": true
+                },
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": {
+                        "bbox": [
+                            0,
+                            64,
+                            299,
+                            194
+                        ],
+                        "mask": [
+                            [
+                                19229,
+                                218
+                            ],
+                            [
+                                19528,
+                                220
+                            ],
+                            [
+                                19827,
+                                222
+                            ],
+                            [
+                                20127,
+                                222
+                            ],
+                            [
+                                20426,
+                                224
+                            ],
+                            [
+                                20725,
+                                225
+                            ],
+                            [
+                                21025,
+                                226
+                            ],
+                            [
+                                21324,
+                                227
+                            ],
+                            [
+                                21623,
+                                229
+                            ],
+                            [
+                                21922,
+                                230
+                            ],
+                            [
+                                22222,
+                                231
+                            ],
+                            [
+                                22521,
+                                233
+                            ],
+                            [
+                                22820,
+                                234
+                            ],
+                            [
+                                23120,
+                                235
+                            ],
+                            [
+                                23419,
+                                236
+                            ],
+                            [
+                                23718,
+                                238
+                            ],
+                            [
+                                24018,
+                                238
+                            ],
+                            [
+                                24317,
+                                240
+                            ],
+                            [
+                                24616,
+                                242
+                            ],
+                            [
+                                24915,
+                                243
+                            ],
+                            [
+                                25215,
+                                244
+                            ],
+                            [
+                                25514,
+                                245
+                            ],
+                            [
+                                25813,
+                                247
+                            ],
+                            [
+                                26113,
+                                247
+                            ],
+                            [
+                                26412,
+                                249
+                            ],
+                            [
+                                26711,
+                                250
+                            ],
+                            [
+                                27011,
+                                251
+                            ],
+                            [
+                                27310,
+                                253
+                            ],
+                            [
+                                27609,
+                                254
+                            ],
+                            [
+                                27908,
+                                256
+                            ],
+                            [
+                                28208,
+                                256
+                            ],
+                            [
+                                28507,
+                                258
+                            ],
+                            [
+                                28806,
+                                259
+                            ],
+                            [
+                                29106,
+                                260
+                            ],
+                            [
+                                29405,
+                                261
+                            ],
+                            [
+                                29704,
+                                263
+                            ],
+                            [
+                                30004,
+                                264
+                            ],
+                            [
+                                30303,
+                                265
+                            ],
+                            [
+                                30602,
+                                267
+                            ],
+                            [
+                                30901,
+                                268
+                            ],
+                            [
+                                31201,
+                                269
+                            ],
+                            [
+                                31500,
+                                270
+                            ],
+                            [
+                                31800,
+                                271
+                            ],
+                            [
+                                32100,
+                                272
+                            ],
+                            [
+                                32400,
+                                272
+                            ],
+                            [
+                                32700,
+                                273
+                            ],
+                            [
+                                33000,
+                                273
+                            ],
+                            [
+                                33300,
+                                274
+                            ],
+                            [
+                                33600,
+                                274
+                            ],
+                            [
+                                33900,
+                                275
+                            ],
+                            [
+                                34200,
+                                275
+                            ],
+                            [
+                                34500,
+                                276
+                            ],
+                            [
+                                34800,
+                                277
+                            ],
+                            [
+                                35100,
+                                277
+                            ],
+                            [
+                                35400,
+                                33
+                            ],
+                            [
+                                35448,
+                                230
+                            ],
+                            [
+                                35700,
+                                31
+                            ],
+                            [
+                                35749,
+                                229
+                            ],
+                            [
+                                36000,
+                                29
+                            ],
+                            [
+                                36050,
+                                229
+                            ],
+                            [
+                                36300,
+                                28
+                            ],
+                            [
+                                36351,
+                                228
+                            ],
+                            [
+                                36600,
+                                26
+                            ],
+                            [
+                                36651,
+                                229
+                            ],
+                            [
+                                36900,
+                                24
+                            ],
+                            [
+                                36952,
+                                229
+                            ],
+                            [
+                                37200,
+                                22
+                            ],
+                            [
+                                37253,
+                                228
+                            ],
+                            [
+                                37500,
+                                21
+                            ],
+                            [
+                                37554,
+                                228
+                            ],
+                            [
+                                37800,
+                                20
+                            ],
+                            [
+                                37854,
+                                228
+                            ],
+                            [
+                                38100,
+                                20
+                            ],
+                            [
+                                38153,
+                                230
+                            ],
+                            [
+                                38400,
+                                19
+                            ],
+                            [
+                                38453,
+                                230
+                            ],
+                            [
+                                38700,
+                                19
+                            ],
+                            [
+                                38752,
+                                232
+                            ],
+                            [
+                                39000,
+                                18
+                            ],
+                            [
+                                39052,
+                                232
+                            ],
+                            [
+                                39300,
+                                18
+                            ],
+                            [
+                                39351,
+                                234
+                            ],
+                            [
+                                39600,
+                                17
+                            ],
+                            [
+                                39651,
+                                235
+                            ],
+                            [
+                                39900,
+                                16
+                            ],
+                            [
+                                39951,
+                                235
+                            ],
+                            [
+                                40200,
+                                16
+                            ],
+                            [
+                                40250,
+                                237
+                            ],
+                            [
+                                40500,
+                                15
+                            ],
+                            [
+                                40550,
+                                237
+                            ],
+                            [
+                                40800,
+                                15
+                            ],
+                            [
+                                40849,
+                                239
+                            ],
+                            [
+                                41100,
+                                16
+                            ],
+                            [
+                                41148,
+                                240
+                            ],
+                            [
+                                41400,
+                                16
+                            ],
+                            [
+                                41446,
+                                243
+                            ],
+                            [
+                                41700,
+                                17
+                            ],
+                            [
+                                41745,
+                                245
+                            ],
+                            [
+                                42000,
+                                18
+                            ],
+                            [
+                                42043,
+                                247
+                            ],
+                            [
+                                42300,
+                                18
+                            ],
+                            [
+                                42341,
+                                250
+                            ],
+                            [
+                                42600,
+                                19
+                            ],
+                            [
+                                42640,
+                                251
+                            ],
+                            [
+                                42900,
+                                20
+                            ],
+                            [
+                                42938,
+                                254
+                            ],
+                            [
+                                43200,
+                                20
+                            ],
+                            [
+                                43237,
+                                255
+                            ],
+                            [
+                                43500,
+                                293
+                            ],
+                            [
+                                43800,
+                                293
+                            ],
+                            [
+                                44100,
+                                294
+                            ],
+                            [
+                                44400,
+                                295
+                            ],
+                            [
+                                44700,
+                                295
+                            ],
+                            [
+                                45000,
+                                296
+                            ],
+                            [
+                                45300,
+                                296
+                            ],
+                            [
+                                45600,
+                                297
+                            ],
+                            [
+                                45900,
+                                297
+                            ],
+                            [
+                                46200,
+                                298
+                            ],
+                            [
+                                46500,
+                                299
+                            ],
+                            [
+                                46800,
+                                299
+                            ],
+                            [
+                                47100,
+                                898
+                            ],
+                            [
+                                48000,
+                                296
+                            ],
+                            [
+                                48300,
+                                22
+                            ],
+                            [
+                                48548,
+                                34
+                            ],
+                            [
+                                48600,
+                                22
+                            ],
+                            [
+                                48849,
+                                31
+                            ],
+                            [
+                                48900,
+                                21
+                            ],
+                            [
+                                49149,
+                                30
+                            ],
+                            [
+                                49200,
+                                21
+                            ],
+                            [
+                                49449,
+                                28
+                            ],
+                            [
+                                49500,
+                                21
+                            ],
+                            [
+                                49750,
+                                25
+                            ],
+                            [
+                                49800,
+                                22
+                            ],
+                            [
+                                50050,
+                                23
+                            ],
+                            [
+                                50100,
+                                24
+                            ],
+                            [
+                                50350,
+                                22
+                            ],
+                            [
+                                50403,
+                                23
+                            ],
+                            [
+                                50648,
+                                22
+                            ],
+                            [
+                                50705,
+                                23
+                            ],
+                            [
+                                50947,
+                                21
+                            ],
+                            [
+                                51007,
+                                23
+                            ],
+                            [
+                                51246,
+                                20
+                            ],
+                            [
+                                51309,
+                                22
+                            ],
+                            [
+                                51544,
+                                21
+                            ],
+                            [
+                                51611,
+                                22
+                            ],
+                            [
+                                51843,
+                                20
+                            ],
+                            [
+                                51913,
+                                22
+                            ],
+                            [
+                                52141,
+                                20
+                            ],
+                            [
+                                52216,
+                                21
+                            ],
+                            [
+                                52440,
+                                19
+                            ],
+                            [
+                                52518,
+                                21
+                            ],
+                            [
+                                52738,
+                                20
+                            ],
+                            [
+                                52820,
+                                21
+                            ],
+                            [
+                                53037,
+                                19
+                            ],
+                            [
+                                53122,
+                                20
+                            ],
+                            [
+                                53335,
+                                19
+                            ],
+                            [
+                                53424,
+                                20
+                            ],
+                            [
+                                53634,
+                                18
+                            ],
+                            [
+                                53726,
+                                20
+                            ],
+                            [
+                                53933,
+                                18
+                            ],
+                            [
+                                54029,
+                                19
+                            ],
+                            [
+                                54231,
+                                18
+                            ],
+                            [
+                                54331,
+                                19
+                            ],
+                            [
+                                54530,
+                                17
+                            ],
+                            [
+                                54633,
+                                18
+                            ],
+                            [
+                                54828,
+                                17
+                            ],
+                            [
+                                54935,
+                                18
+                            ],
+                            [
+                                55127,
+                                17
+                            ],
+                            [
+                                55237,
+                                18
+                            ],
+                            [
+                                55425,
+                                17
+                            ],
+                            [
+                                55539,
+                                18
+                            ],
+                            [
+                                55724,
+                                16
+                            ],
+                            [
+                                55841,
+                                18
+                            ],
+                            [
+                                56023,
+                                15
+                            ],
+                            [
+                                56144,
+                                17
+                            ],
+                            [
+                                56321,
+                                16
+                            ],
+                            [
+                                56446,
+                                16
+                            ],
+                            [
+                                56620,
+                                15
+                            ],
+                            [
+                                56748,
+                                16
+                            ],
+                            [
+                                56918,
+                                15
+                            ],
+                            [
+                                57050,
+                                16
+                            ],
+                            [
+                                57217,
+                                14
+                            ],
+                            [
+                                57352,
+                                16
+                            ],
+                            [
+                                57515,
+                                15
+                            ],
+                            [
+                                57654,
+                                16
+                            ],
+                            [
+                                57814,
+                                14
+                            ],
+                            [
+                                57957,
+                                13
+                            ],
+                            [
+                                58114,
+                                12
+                            ],
+                            [
+                                58259,
+                                10
+                            ],
+                            [
+                                58414,
+                                10
+                            ]
+                        ],
+                        "point": [
+                            149,
+                            129
+                        ]
+                    }
+                },
+                "high_idx": 5
+            }
+        ]
+    },
+    "scene": {
+        "dirty_and_empty": true,
+        "floor_plan": "FloorPlan212",
+        "init_action": {
+            "action": "TeleportFull",
+            "horizon": 30,
+            "position": {
+                "x": 3.5,
+                "y": 0.9321366548538208,
+                "z": 3.5
+            },
+            "rotation": {
+                "x": 0,
+                "y": 180,
+                "z": 0
+            },
+            "standing": true
+        },
+        "object_poses": [
+            {
+                "objectName": "armchair",
+                "position": {
+                    "x": 7.054749965667725,
+                    "y": 0.04452919960021973,
+                    "z": 1.3099019527435303
+                },
+                "rotation": {
+                    "x": 0.007387329824268818,
+                    "y": 329.9925231933594,
+                    "z": 0.26325297355651855
+                }
+            },
+            {
+                "objectName": "Double Bed_1",
+                "position": {
+                    "x": 1.5156960487365723,
+                    "y": 0.0,
+                    "z": -4.54109001159668
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Cellphone_2",
+                "position": {
+                    "x": 5.180909633636475,
+                    "y": 0.5795413851737976,
+                    "z": 3.619025945663452
+                },
+                "rotation": {
+                    "x": 0.08250768482685089,
+                    "y": 292.1392822265625,
+                    "z": 0.009256609715521336
+                }
+            },
+            {
+                "objectName": "table chair_1",
+                "position": {
+                    "x": 6.561953544616699,
+                    "y": 0.039513349533081055,
+                    "z": -4.562180519104004
+                },
+                "rotation": {
+                    "x": 0.4849938750267029,
+                    "y": 0.12685133516788483,
+                    "z": 0.5405130982398987
+                }
+            },
+            {
+                "objectName": "table chair",
+                "position": {
+                    "x": 7.294068813323975,
+                    "y": 0.0395054817199707,
+                    "z": -3.3577356338500977
+                },
+                "rotation": {
+                    "x": 0.48227620124816895,
+                    "y": 269.8901062011719,
+                    "z": 0.556440532207489
+                }
+            },
+            {
+                "objectName": "CreditCard_3",
+                "position": {
+                    "x": 5.366701126098633,
+                    "y": 2.427344560623169,
+                    "z": 4.191349506378174
+                },
+                "rotation": {
+                    "x": 0.00011469167657196522,
+                    "y": 9.932296752929688,
+                    "z": -0.0002602380409371108
+                }
+            },
+            {
+                "objectName": "table",
+                "position": {
+                    "x": 6.549716949462891,
+                    "y": 0.028669118881225586,
+                    "z": -3.4121382236480713
+                },
+                "rotation": {
+                    "x": 0.08587844669818878,
+                    "y": 90.00115203857422,
+                    "z": 0.11187587678432465
+                }
+            },
+            {
+                "objectName": "RoboTHOR_dresser_anes",
+                "position": {
+                    "x": 3.7809996604919434,
+                    "y": 0.031137853860855103,
+                    "z": 4.71999979019165
+                },
+                "rotation": {
+                    "x": 7.076149631757289e-05,
+                    "y": 180.0,
+                    "z": 1.9762665033340454e-05
+                }
+            },
+            {
+                "objectName": "Egg_2",
+                "position": {
+                    "x": 3.019355297088623,
+                    "y": 1.020117163658142,
+                    "z": -2.3659448623657227
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Floor_Lamp_9",
+                "position": {
+                    "x": -0.2830101549625397,
+                    "y": 0.02995169162750244,
+                    "z": -5.168010711669922
+                },
+                "rotation": {
+                    "x": 0.01829446665942669,
+                    "y": 0.0015478150453418493,
+                    "z": 0.021107375621795654
+                }
+            },
+            {
+                "objectName": "Lettuce_27",
+                "position": {
+                    "x": 4.640559673309326,
+                    "y": 0.9840943813323975,
+                    "z": -2.683835983276367
+                },
+                "rotation": {
+                    "x": 1.5412681102752686,
+                    "y": 0.18686264753341675,
+                    "z": 4.41666841506958
+                }
+            },
+            {
+                "objectName": "Microwave_15",
+                "position": {
+                    "x": 2.9870102405548096,
+                    "y": 0.9315345287322998,
+                    "z": -3.269097089767456
+                },
+                "rotation": {
+                    "x": 0.08222115784883499,
+                    "y": 90.00049591064453,
+                    "z": -0.003118831431493163
+                }
+            },
+            {
+                "objectName": "Newspaper_4",
+                "position": {
+                    "x": 1.1800767183303833,
+                    "y": 0.5278915762901306,
+                    "z": -4.338817119598389
+                },
+                "rotation": {
+                    "x": 0.01129530556499958,
+                    "y": 23.130338668823242,
+                    "z": -5.121682625031099e-05
+                }
+            },
+            {
+                "objectName": "Drone_Pan_2",
+                "position": {
+                    "x": 3.0010385513305664,
+                    "y": 0.9570000171661377,
+                    "z": -2.385999917984009
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Pen_2",
+                "position": {
+                    "x": 0.3099852204322815,
+                    "y": 0.5671548843383789,
+                    "z": -5.14793062210083
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Plate_4",
+                "position": {
+                    "x": 6.288454055786133,
+                    "y": 0.8879415988922119,
+                    "z": -2.8239030838012695
+                },
+                "rotation": {
+                    "x": 0.0940878614783287,
+                    "y": 0.22389835119247437,
+                    "z": 359.9710998535156
+                }
+            },
+            {
+                "objectName": "Pot_19",
+                "position": {
+                    "x": 4.63780403137207,
+                    "y": 0.9203882813453674,
+                    "z": -2.689993143081665
+                },
+                "rotation": {
+                    "x": 0.009781300090253353,
+                    "y": -0.00031773213413544,
+                    "z": 359.9898986816406
+                }
+            },
+            {
+                "objectName": "nightstand_1",
+                "position": {
+                    "x": 0.4343278408050537,
+                    "y": 0.14980769157409668,
+                    "z": -5.165548324584961
+                },
+                "rotation": {
+                    "x": 358.6938781738281,
+                    "y": 39.714054107666016,
+                    "z": 0.6854481101036072
+                }
+            },
+            {
+                "objectName": "sofa",
+                "position": {
+                    "x": 5.272271633148193,
+                    "y": 0.10447263717651367,
+                    "z": 3.479811429977417
+                },
+                "rotation": {
+                    "x": 0.08023901283740997,
+                    "y": 270.00067138671875,
+                    "z": 359.9784240722656
+                }
+            },
+            {
+                "objectName": "sofa (1)",
+                "position": {
+                    "x": 5.10169792175293,
+                    "y": 0.10571634769439697,
+                    "z": 1.4779512882232666
+                },
+                "rotation": {
+                    "x": 1.3662570381711703e-05,
+                    "y": 280.0,
+                    "z": 4.138975327805383e-06
+                }
+            }
+        ],
+        "object_toggles": [],
+        "random_seed": 2776604094,
+        "scene_num": 212
+    },
+    "task_id": "trial_T20230518_020610_951885",
+    "task_type": "pick_clean_then_place_in_recep",
+    "turk_annotations": {
+        "anns": [
+            {
+                "assignment_id": "39GXDJN2O90HHGX6OZUUWWIW5GCV81",
+                "high_descs": [
+                    "Head straight and turn left to reach the kitchen island counter.",
+                    "Pick up the lettuce from the pot.",
+                    "Head to the sink by turning left.",
+                    "Wash the lettuce in the sink and take it out.",
+                    "Turn right and head to the dining table across the room.",
+                    "Put the lettuce on the dining table."
+                ],
+                "task_desc": "Put the washed lettuce on the dining table.",
+                "vote1": [
+                    0,
+                    1,
+                    0
+                ],
+                "vote2": [
+                    1,
+                    1,
+                    1
+                ],
+                "updated1": true
+            },
+            {
+                "assignment_id": "3TS1AR6UQ60OL56XEFXK0AJF62MF7E",
+                "high_descs": [
+                    "Turn around and go near the pot.",
+                    "Take the lettuce from the pot.",
+                    "Turn around and go near the sink.",
+                    "Put the lettuce into the sink and washed it.",
+                    "Then take it out and go near the dining table.",
+                    "Put the lettuce on the dining table."
+                ],
+                "task_desc": "Placed the lettuce on the dining table.",
+                "vote1": [
+                    1,
+                    1,
+                    1
+                ],
+                "vote2": [
+                    0,
+                    1,
+                    1
+                ]
+            },
+            {
+                "assignment_id": "3QFUFYSY9E1R2IOECHZDXYZ5F0Y4FL",
+                "high_descs": [
+                    "Go forward, when you reach the wall, turn left, turn right. Go forward, after passing the sink cabinet, turn left. Turn right. Reach the sink cabinet, turn left.",
+                    "Take the lettuce.",
+                    "Turn left. After passing the sink cabinet, turn right. When you reach the middle of the cabinet, turn right.",
+                    "Place the lettuce in the sink, turn on the tap for 6 seconds. Turn the faucet off. Take the lettuce.",
+                    "Turn right, approach fridge, turn left. Reach the dining table. ",
+                    "Place the lettuce on the far right side of the food table."
+                ],
+                "task_desc": "Find a lettuce, wash it and place it on the dining table.",
+                "vote1": [
+                    1,
+                    1,
+                    1
+                ],
+                "vote2": [
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    }
+}

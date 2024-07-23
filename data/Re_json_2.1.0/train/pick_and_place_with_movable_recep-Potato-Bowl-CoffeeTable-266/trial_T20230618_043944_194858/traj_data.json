@@ -1,0 +1,4480 @@
+{
+    "images": [
+        {
+            "high_idx": 0,
+            "image_name": "000000000.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000001.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000002.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000003.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000004.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000005.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000006.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000007.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000008.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000009.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000010.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000011.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000012.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000013.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000014.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000015.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000016.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000017.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000018.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000019.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000020.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000021.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000022.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000023.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000024.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000025.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000026.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000027.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000028.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000029.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000030.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000031.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000032.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000033.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000034.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000035.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000036.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000037.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000038.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000039.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000040.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000041.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000042.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000043.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000044.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000045.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000046.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000047.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000048.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000049.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000050.png",
+            "low_idx": 11
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000051.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000052.png",
+            "low_idx": 12
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000053.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000054.png",
+            "low_idx": 13
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000055.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000056.png",
+            "low_idx": 14
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000057.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000058.png",
+            "low_idx": 15
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000059.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000060.png",
+            "low_idx": 16
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000061.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000062.png",
+            "low_idx": 17
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000063.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000064.png",
+            "low_idx": 18
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000065.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000066.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000067.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000068.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000069.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000070.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000071.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000072.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000073.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000074.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000075.png",
+            "low_idx": 19
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000076.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000077.png",
+            "low_idx": 20
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000078.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000079.png",
+            "low_idx": 21
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000080.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000081.png",
+            "low_idx": 22
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000082.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000083.png",
+            "low_idx": 23
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000084.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000085.png",
+            "low_idx": 24
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000086.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000087.png",
+            "low_idx": 25
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000088.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000089.png",
+            "low_idx": 26
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000090.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000091.png",
+            "low_idx": 27
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000092.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000093.png",
+            "low_idx": 28
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000094.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000095.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000096.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000097.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000098.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000099.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000100.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000101.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000102.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000103.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000104.png",
+            "low_idx": 29
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000105.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000106.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000107.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000108.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000109.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000110.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000111.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000112.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000113.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000114.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000115.png",
+            "low_idx": 30
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000116.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000117.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000118.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000119.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000120.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000121.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000122.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000123.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000124.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000125.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000126.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000127.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000128.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000129.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000130.png",
+            "low_idx": 31
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000131.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000132.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000133.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000134.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000135.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000136.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000137.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000138.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000139.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000140.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000141.png",
+            "low_idx": 32
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000142.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000143.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000144.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000145.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000146.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000147.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000148.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000149.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000150.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000151.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000152.png",
+            "low_idx": 33
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000153.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000154.png",
+            "low_idx": 34
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000155.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000156.png",
+            "low_idx": 35
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000157.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000158.png",
+            "low_idx": 36
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000159.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000160.png",
+            "low_idx": 37
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000161.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000162.png",
+            "low_idx": 38
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000163.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000164.png",
+            "low_idx": 39
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000165.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000166.png",
+            "low_idx": 40
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000167.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000168.png",
+            "low_idx": 41
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000169.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000170.png",
+            "low_idx": 42
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000171.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000172.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000173.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000174.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000175.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000176.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000177.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000178.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000179.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000180.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000181.png",
+            "low_idx": 43
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000182.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000183.png",
+            "low_idx": 44
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000184.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000185.png",
+            "low_idx": 45
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000186.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000187.png",
+            "low_idx": 46
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000188.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000189.png",
+            "low_idx": 47
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000190.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000191.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000192.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000193.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000194.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000195.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000196.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000197.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000198.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000199.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000200.png",
+            "low_idx": 48
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000201.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000202.png",
+            "low_idx": 49
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000203.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000204.png",
+            "low_idx": 50
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000205.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000206.png",
+            "low_idx": 51
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000207.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000208.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000209.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000210.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000211.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000212.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000213.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000214.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000215.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000216.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000217.png",
+            "low_idx": 52
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000218.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000219.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000220.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000221.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000222.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000223.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000224.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000225.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000226.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000227.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000228.png",
+            "low_idx": 53
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000229.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000230.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000231.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000232.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000233.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000234.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000235.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000236.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000237.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000238.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000239.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000240.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000241.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000242.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 3,
+            "image_name": "000000243.png",
+            "low_idx": 54
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000244.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000245.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000246.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000247.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000248.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000249.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000250.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000251.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000252.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000253.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000254.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000255.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000256.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000257.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 4,
+            "image_name": "000000258.png",
+            "low_idx": 55
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000259.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000260.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000261.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000262.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000263.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000264.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000265.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000266.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000267.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000268.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000269.png",
+            "low_idx": 56
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000270.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000271.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000272.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000273.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000274.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000275.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000276.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000277.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000278.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000279.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000280.png",
+            "low_idx": 57
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000281.png",
+            "low_idx": 58
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000282.png",
+            "low_idx": 58
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000283.png",
+            "low_idx": 59
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000284.png",
+            "low_idx": 59
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000285.png",
+            "low_idx": 60
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000286.png",
+            "low_idx": 60
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000287.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000288.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000289.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000290.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000291.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000292.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000293.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000294.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000295.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000296.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000297.png",
+            "low_idx": 61
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000298.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000299.png",
+            "low_idx": 62
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000300.png",
+            "low_idx": 63
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000301.png",
+            "low_idx": 63
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000302.png",
+            "low_idx": 64
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000303.png",
+            "low_idx": 64
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000304.png",
+            "low_idx": 65
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000305.png",
+            "low_idx": 65
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000306.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000307.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000308.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000309.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000310.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000311.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000312.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000313.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000314.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000315.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000316.png",
+            "low_idx": 66
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000317.png",
+            "low_idx": 67
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000318.png",
+            "low_idx": 67
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000319.png",
+            "low_idx": 68
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000320.png",
+            "low_idx": 68
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000321.png",
+            "low_idx": 69
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000322.png",
+            "low_idx": 69
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000323.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000324.png",
+            "low_idx": 70
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000325.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000326.png",
+            "low_idx": 71
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000327.png",
+            "low_idx": 72
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000328.png",
+            "low_idx": 72
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000329.png",
+            "low_idx": 73
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000330.png",
+            "low_idx": 73
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000331.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000332.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000333.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000334.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000335.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000336.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000337.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000338.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000339.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000340.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000341.png",
+            "low_idx": 74
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000342.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000343.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000344.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000345.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000346.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000347.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000348.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000349.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000350.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000351.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 5,
+            "image_name": "000000352.png",
+            "low_idx": 75
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000353.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000354.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000355.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000356.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000357.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000358.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000359.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000360.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000361.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000362.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000363.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000364.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000365.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000366.png",
+            "low_idx": 76
+        },
+        {
+            "high_idx": 6,
+            "image_name": "000000367.png",
+            "low_idx": 76
+        }
+    ],
+    "pddl_params": {
+        "mrecep_target": "Bowl",
+        "object_sliced": false,
+        "object_target": "Potato",
+        "parent_target": "CoffeeTable",
+        "toggle_target": ""
+    },
+    "plan": {
+        "high_pddl": [
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "coffeetable"
+                    ]
+                },
+                "high_idx": 0,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|18|-16|1|60"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": [
+                        "potato"
+                    ]
+                },
+                "high_idx": 1,
+                "planner_action": {
+                    "action": "PickupObject",
+                    "forceVisible": true,
+                    "objectId": "Potato|+04.90|+00.62|-04.00",
+                    "receptacleObjectId": "CoffeeTable|+05.08|-00.01|-03.61"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "bowl"
+                    ]
+                },
+                "high_idx": 2,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|22|-4|3|60"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": [
+                        "potato",
+                        "bowl"
+                    ]
+                },
+                "high_idx": 3,
+                "planner_action": {
+                    "action": "PutObject",
+                    "forceVisible": true,
+                    "objectId": "Potato|+04.90|+00.62|-04.00",
+                    "receptacleObjectId": "Bowl|+05.09|+00.96|-00.90"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": [
+                        "bowl"
+                    ]
+                },
+                "high_idx": 4,
+                "planner_action": {
+                    "action": "PickupObject",
+                    "forceVisible": true,
+                    "objectId": "Bowl|+05.09|+00.96|-00.90",
+                    "receptacleObjectId": "DiningTable|+04.74|+00.00|-00.54"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "coffeetable"
+                    ]
+                },
+                "high_idx": 5,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|18|-14|1|60"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": [
+                        "bowl",
+                        "coffeetable"
+                    ]
+                },
+                "high_idx": 6,
+                "planner_action": {
+                    "action": "PutObject",
+                    "forceVisible": true,
+                    "objectId": "Bowl|+05.09|+00.96|-00.90",
+                    "receptacleObjectId": "CoffeeTable|+05.08|-00.01|-03.61"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "NoOp",
+                    "args": []
+                },
+                "high_idx": 7,
+                "planner_action": {
+                    "action": "End",
+                    "value": 1
+                }
+            }
+        ],
+        "low_actions": [
+            {
+                "api_action": {
+                    "action": "LookDown"
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "LookDown",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "Potato|+04.90|+00.62|-04.00"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            145,
+                            162,
+                            154,
+                            177
+                        ],
+                        "mask": [
+                            [
+                                48747,
+                                4
+                            ],
+                            [
+                                49046,
+                                6
+                            ],
+                            [
+                                49346,
+                                7
+                            ],
+                            [
+                                49645,
+                                9
+                            ],
+                            [
+                                49945,
+                                9
+                            ],
+                            [
+                                50245,
+                                9
+                            ],
+                            [
+                                50545,
+                                10
+                            ],
+                            [
+                                50845,
+                                10
+                            ],
+                            [
+                                51145,
+                                9
+                            ],
+                            [
+                                51445,
+                                9
+                            ],
+                            [
+                                51745,
+                                9
+                            ],
+                            [
+                                52045,
+                                9
+                            ],
+                            [
+                                52346,
+                                8
+                            ],
+                            [
+                                52646,
+                                7
+                            ],
+                            [
+                                52947,
+                                6
+                            ],
+                            [
+                                53249,
+                                2
+                            ]
+                        ],
+                        "point": [
+                            149,
+                            169
+                        ]
+                    }
+                },
+                "high_idx": 1
+            },
+            {
+                "api_action": {
+                    "action": "LookUp"
+                },
+                "discrete_action": {
+                    "action": "LookUp_15",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "LookDown",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 2
+            },
+            {
+                "api_action": {
+                    "action": "PutObject",
+                    "forceAction": true,
+                    "objectId": "Bowl|+05.09|+00.96|-00.90",
+                    "placeStationary": true
+                },
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": {
+                        "bbox": [
+                            150,
+                            118,
+                            191,
+                            153
+                        ],
+                        "mask": [
+                            [
+                                35565,
+                                10
+                            ],
+                            [
+                                35862,
+                                17
+                            ],
+                            [
+                                36159,
+                                22
+                            ],
+                            [
+                                36458,
+                                25
+                            ],
+                            [
+                                36756,
+                                29
+                            ],
+                            [
+                                37055,
+                                31
+                            ],
+                            [
+                                37354,
+                                33
+                            ],
+                            [
+                                37653,
+                                35
+                            ],
+                            [
+                                37953,
+                                36
+                            ],
+                            [
+                                38252,
+                                38
+                            ],
+                            [
+                                38552,
+                                38
+                            ],
+                            [
+                                38851,
+                                40
+                            ],
+                            [
+                                39151,
+                                40
+                            ],
+                            [
+                                39451,
+                                41
+                            ],
+                            [
+                                39751,
+                                41
+                            ],
+                            [
+                                40050,
+                                42
+                            ],
+                            [
+                                40350,
+                                42
+                            ],
+                            [
+                                40651,
+                                41
+                            ],
+                            [
+                                40951,
+                                41
+                            ],
+                            [
+                                41251,
+                                41
+                            ],
+                            [
+                                41551,
+                                41
+                            ],
+                            [
+                                41851,
+                                41
+                            ],
+                            [
+                                42152,
+                                40
+                            ],
+                            [
+                                42452,
+                                39
+                            ],
+                            [
+                                42752,
+                                39
+                            ],
+                            [
+                                43053,
+                                37
+                            ],
+                            [
+                                43354,
+                                36
+                            ],
+                            [
+                                43654,
+                                35
+                            ],
+                            [
+                                43955,
+                                33
+                            ],
+                            [
+                                44256,
+                                31
+                            ],
+                            [
+                                44557,
+                                30
+                            ],
+                            [
+                                44858,
+                                27
+                            ],
+                            [
+                                45160,
+                                24
+                            ],
+                            [
+                                45461,
+                                21
+                            ],
+                            [
+                                45763,
+                                17
+                            ],
+                            [
+                                46067,
+                                10
+                            ]
+                        ],
+                        "point": [
+                            170,
+                            135
+                        ]
+                    }
+                },
+                "high_idx": 3
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "Bowl|+05.09|+00.96|-00.90"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            150,
+                            118,
+                            191,
+                            153
+                        ],
+                        "mask": [
+                            [
+                                35565,
+                                10
+                            ],
+                            [
+                                35862,
+                                17
+                            ],
+                            [
+                                36159,
+                                22
+                            ],
+                            [
+                                36458,
+                                25
+                            ],
+                            [
+                                36756,
+                                29
+                            ],
+                            [
+                                37055,
+                                31
+                            ],
+                            [
+                                37354,
+                                13
+                            ],
+                            [
+                                37373,
+                                14
+                            ],
+                            [
+                                37653,
+                                12
+                            ],
+                            [
+                                37674,
+                                14
+                            ],
+                            [
+                                37953,
+                                11
+                            ],
+                            [
+                                37975,
+                                14
+                            ],
+                            [
+                                38252,
+                                12
+                            ],
+                            [
+                                38275,
+                                15
+                            ],
+                            [
+                                38552,
+                                11
+                            ],
+                            [
+                                38576,
+                                14
+                            ],
+                            [
+                                38851,
+                                12
+                            ],
+                            [
+                                38876,
+                                15
+                            ],
+                            [
+                                39151,
+                                12
+                            ],
+                            [
+                                39176,
+                                15
+                            ],
+                            [
+                                39451,
+                                11
+                            ],
+                            [
+                                39477,
+                                15
+                            ],
+                            [
+                                39751,
+                                11
+                            ],
+                            [
+                                39777,
+                                15
+                            ],
+                            [
+                                40050,
+                                12
+                            ],
+                            [
+                                40076,
+                                16
+                            ],
+                            [
+                                40350,
+                                12
+                            ],
+                            [
+                                40376,
+                                16
+                            ],
+                            [
+                                40651,
+                                11
+                            ],
+                            [
+                                40676,
+                                16
+                            ],
+                            [
+                                40951,
+                                11
+                            ],
+                            [
+                                40976,
+                                16
+                            ],
+                            [
+                                41251,
+                                11
+                            ],
+                            [
+                                41275,
+                                17
+                            ],
+                            [
+                                41551,
+                                12
+                            ],
+                            [
+                                41575,
+                                17
+                            ],
+                            [
+                                41851,
+                                12
+                            ],
+                            [
+                                41875,
+                                17
+                            ],
+                            [
+                                42152,
+                                12
+                            ],
+                            [
+                                42174,
+                                18
+                            ],
+                            [
+                                42452,
+                                13
+                            ],
+                            [
+                                42473,
+                                18
+                            ],
+                            [
+                                42752,
+                                14
+                            ],
+                            [
+                                42772,
+                                19
+                            ],
+                            [
+                                43053,
+                                37
+                            ],
+                            [
+                                43354,
+                                36
+                            ],
+                            [
+                                43654,
+                                35
+                            ],
+                            [
+                                43955,
+                                33
+                            ],
+                            [
+                                44256,
+                                31
+                            ],
+                            [
+                                44557,
+                                30
+                            ],
+                            [
+                                44858,
+                                27
+                            ],
+                            [
+                                45160,
+                                24
+                            ],
+                            [
+                                45461,
+                                21
+                            ],
+                            [
+                                45763,
+                                17
+                            ],
+                            [
+                                46067,
+                                10
+                            ]
+                        ],
+                        "point": [
+                            175,
+                            137
+                        ]
+                    }
+                },
+                "high_idx": 4
+            },
+            {
+                "api_action": {
+                    "action": "LookUp"
+                },
+                "discrete_action": {
+                    "action": "LookUp_15",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateRight",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateRight_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "LookDown",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 5
+            },
+            {
+                "api_action": {
+                    "action": "PutObject",
+                    "forceAction": true,
+                    "objectId": "CoffeeTable|+05.08|-00.01|-03.61",
+                    "placeStationary": true
+                },
+                "discrete_action": {
+                    "action": "PutObject",
+                    "args": {
+                        "bbox": [
+                            49,
+                            114,
+                            285,
+                            211
+                        ],
+                        "mask": [
+                            [
+                                34276,
+                                9
+                            ],
+                            [
+                                34300,
+                                149
+                            ],
+                            [
+                                34576,
+                                9
+                            ],
+                            [
+                                34600,
+                                150
+                            ],
+                            [
+                                34876,
+                                10
+                            ],
+                            [
+                                34901,
+                                149
+                            ],
+                            [
+                                35175,
+                                11
+                            ],
+                            [
+                                35201,
+                                149
+                            ],
+                            [
+                                35475,
+                                11
+                            ],
+                            [
+                                35501,
+                                150
+                            ],
+                            [
+                                35775,
+                                12
+                            ],
+                            [
+                                35801,
+                                150
+                            ],
+                            [
+                                36074,
+                                13
+                            ],
+                            [
+                                36100,
+                                152
+                            ],
+                            [
+                                36374,
+                                14
+                            ],
+                            [
+                                36400,
+                                152
+                            ],
+                            [
+                                36674,
+                                14
+                            ],
+                            [
+                                36700,
+                                153
+                            ],
+                            [
+                                36973,
+                                15
+                            ],
+                            [
+                                37000,
+                                153
+                            ],
+                            [
+                                37273,
+                                17
+                            ],
+                            [
+                                37299,
+                                155
+                            ],
+                            [
+                                37573,
+                                181
+                            ],
+                            [
+                                37872,
+                                182
+                            ],
+                            [
+                                38172,
+                                183
+                            ],
+                            [
+                                38472,
+                                183
+                            ],
+                            [
+                                38771,
+                                185
+                            ],
+                            [
+                                39071,
+                                185
+                            ],
+                            [
+                                39371,
+                                186
+                            ],
+                            [
+                                39670,
+                                187
+                            ],
+                            [
+                                39970,
+                                188
+                            ],
+                            [
+                                40270,
+                                188
+                            ],
+                            [
+                                40569,
+                                189
+                            ],
+                            [
+                                40869,
+                                190
+                            ],
+                            [
+                                41169,
+                                190
+                            ],
+                            [
+                                41468,
+                                192
+                            ],
+                            [
+                                41768,
+                                192
+                            ],
+                            [
+                                42068,
+                                193
+                            ],
+                            [
+                                42367,
+                                194
+                            ],
+                            [
+                                42667,
+                                195
+                            ],
+                            [
+                                42967,
+                                195
+                            ],
+                            [
+                                43266,
+                                196
+                            ],
+                            [
+                                43566,
+                                197
+                            ],
+                            [
+                                43866,
+                                197
+                            ],
+                            [
+                                44166,
+                                198
+                            ],
+                            [
+                                44465,
+                                199
+                            ],
+                            [
+                                44765,
+                                200
+                            ],
+                            [
+                                45065,
+                                200
+                            ],
+                            [
+                                45364,
+                                201
+                            ],
+                            [
+                                45664,
+                                202
+                            ],
+                            [
+                                45964,
+                                202
+                            ],
+                            [
+                                46263,
+                                204
+                            ],
+                            [
+                                46563,
+                                204
+                            ],
+                            [
+                                46863,
+                                205
+                            ],
+                            [
+                                47162,
+                                206
+                            ],
+                            [
+                                47462,
+                                207
+                            ],
+                            [
+                                47762,
+                                207
+                            ],
+                            [
+                                48061,
+                                208
+                            ],
+                            [
+                                48361,
+                                209
+                            ],
+                            [
+                                48661,
+                                209
+                            ],
+                            [
+                                48960,
+                                211
+                            ],
+                            [
+                                49260,
+                                211
+                            ],
+                            [
+                                49560,
+                                212
+                            ],
+                            [
+                                49859,
+                                213
+                            ],
+                            [
+                                50159,
+                                214
+                            ],
+                            [
+                                50459,
+                                84
+                            ],
+                            [
+                                50557,
+                                116
+                            ],
+                            [
+                                50758,
+                                80
+                            ],
+                            [
+                                50862,
+                                111
+                            ],
+                            [
+                                51058,
+                                77
+                            ],
+                            [
+                                51165,
+                                109
+                            ],
+                            [
+                                51358,
+                                75
+                            ],
+                            [
+                                51467,
+                                107
+                            ],
+                            [
+                                51657,
+                                73
+                            ],
+                            [
+                                51770,
+                                105
+                            ],
+                            [
+                                51957,
+                                71
+                            ],
+                            [
+                                52072,
+                                103
+                            ],
+                            [
+                                52257,
+                                70
+                            ],
+                            [
+                                52373,
+                                103
+                            ],
+                            [
+                                52556,
+                                69
+                            ],
+                            [
+                                52675,
+                                101
+                            ],
+                            [
+                                52856,
+                                67
+                            ],
+                            [
+                                52977,
+                                100
+                            ],
+                            [
+                                53156,
+                                66
+                            ],
+                            [
+                                53278,
+                                99
+                            ],
+                            [
+                                53455,
+                                66
+                            ],
+                            [
+                                53579,
+                                98
+                            ],
+                            [
+                                53755,
+                                65
+                            ],
+                            [
+                                53880,
+                                98
+                            ],
+                            [
+                                54055,
+                                64
+                            ],
+                            [
+                                54181,
+                                97
+                            ],
+                            [
+                                54354,
+                                64
+                            ],
+                            [
+                                54482,
+                                97
+                            ],
+                            [
+                                54654,
+                                63
+                            ],
+                            [
+                                54783,
+                                96
+                            ],
+                            [
+                                54954,
+                                62
+                            ],
+                            [
+                                55084,
+                                96
+                            ],
+                            [
+                                55253,
+                                62
+                            ],
+                            [
+                                55385,
+                                95
+                            ],
+                            [
+                                55553,
+                                61
+                            ],
+                            [
+                                55686,
+                                95
+                            ],
+                            [
+                                55853,
+                                61
+                            ],
+                            [
+                                55986,
+                                95
+                            ],
+                            [
+                                56152,
+                                61
+                            ],
+                            [
+                                56287,
+                                94
+                            ],
+                            [
+                                56452,
+                                60
+                            ],
+                            [
+                                56588,
+                                94
+                            ],
+                            [
+                                56752,
+                                60
+                            ],
+                            [
+                                56888,
+                                94
+                            ],
+                            [
+                                57051,
+                                60
+                            ],
+                            [
+                                57189,
+                                94
+                            ],
+                            [
+                                57351,
+                                60
+                            ],
+                            [
+                                57489,
+                                94
+                            ],
+                            [
+                                57651,
+                                59
+                            ],
+                            [
+                                57790,
+                                94
+                            ],
+                            [
+                                57950,
+                                60
+                            ],
+                            [
+                                58090,
+                                94
+                            ],
+                            [
+                                58250,
+                                59
+                            ],
+                            [
+                                58391,
+                                93
+                            ],
+                            [
+                                58550,
+                                59
+                            ],
+                            [
+                                58691,
+                                94
+                            ],
+                            [
+                                58849,
+                                59
+                            ],
+                            [
+                                58992,
+                                93
+                            ],
+                            [
+                                59149,
+                                59
+                            ],
+                            [
+                                59292,
+                                94
+                            ],
+                            [
+                                59449,
+                                59
+                            ],
+                            [
+                                59592,
+                                94
+                            ],
+                            [
+                                59749,
+                                59
+                            ],
+                            [
+                                59892,
+                                94
+                            ],
+                            [
+                                60054,
+                                53
+                            ],
+                            [
+                                60193,
+                                87
+                            ],
+                            [
+                                60356,
+                                51
+                            ],
+                            [
+                                60493,
+                                84
+                            ],
+                            [
+                                60659,
+                                18
+                            ],
+                            [
+                                60850,
+                                23
+                            ],
+                            [
+                                60962,
+                                17
+                            ],
+                            [
+                                61148,
+                                21
+                            ],
+                            [
+                                61264,
+                                15
+                            ],
+                            [
+                                61448,
+                                18
+                            ],
+                            [
+                                61567,
+                                11
+                            ],
+                            [
+                                61749,
+                                13
+                            ],
+                            [
+                                61870,
+                                8
+                            ],
+                            [
+                                62049,
+                                10
+                            ],
+                            [
+                                62172,
+                                34
+                            ],
+                            [
+                                62294,
+                                61
+                            ],
+                            [
+                                62473,
+                                33
+                            ],
+                            [
+                                62594,
+                                59
+                            ],
+                            [
+                                62778,
+                                10
+                            ],
+                            [
+                                62936,
+                                12
+                            ],
+                            [
+                                63080,
+                                7
+                            ],
+                            [
+                                63236,
+                                8
+                            ],
+                            [
+                                63383,
+                                4
+                            ],
+                            [
+                                63536,
+                                5
+                            ]
+                        ],
+                        "point": [
+                            167,
+                            162
+                        ]
+                    }
+                },
+                "high_idx": 6
+            }
+        ]
+    },
+    "scene": {
+        "dirty_and_empty": false,
+        "floor_plan": "FloorPlan266",
+        "init_action": {
+            "action": "TeleportFull",
+            "horizon": 30,
+            "position": {
+                "x": 8.5,
+                "y": 0.906999945640564,
+                "z": -1.75
+            },
+            "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+            },
+            "standing": true
+        },
+        "object_poses": [
+            {
+                "objectName": "Potato_11",
+                "position": {
+                    "x": 10.146035194396973,
+                    "y": 0.6286110877990723,
+                    "z": -3.604008674621582
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 180.0,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Television",
+                "position": {
+                    "x": 3.1793007850646973,
+                    "y": 1.4352078437805176,
+                    "z": -4.056898593902588
+                },
+                "rotation": {
+                    "x": 0.0008906860020942986,
+                    "y": 89.9049301147461,
+                    "z": 0.03998928144574165
+                }
+            },
+            {
+                "objectName": "wall air conditioner_1",
+                "position": {
+                    "x": 10.997795104980469,
+                    "y": 0.7710123658180237,
+                    "z": -2.683032989501953
+                },
+                "rotation": {
+                    "x": -0.0011760769411921501,
+                    "y": 0.024142460897564888,
+                    "z": 359.59161376953125
+                }
+            },
+            {
+                "objectName": "sofa",
+                "position": {
+                    "x": 6.863311290740967,
+                    "y": 0.014106690883636475,
+                    "z": -4.205899238586426
+                },
+                "rotation": {
+                    "x": 0.03781206160783768,
+                    "y": 270.00030517578125,
+                    "z": 359.98016357421875
+                }
+            },
+            {
+                "objectName": "single Bed_1",
+                "position": {
+                    "x": 10.329999923706055,
+                    "y": 0.0,
+                    "z": -3.4609999656677246
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": -1.7075470850613783e-06,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Bread_3",
+                "position": {
+                    "x": 7.011134147644043,
+                    "y": 0.8094757199287415,
+                    "z": 1.2940692901611328
+                },
+                "rotation": {
+                    "x": 1.4033420794510015e-14,
+                    "y": 270.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Pan_1",
+                "position": {
+                    "x": 10.146035194396973,
+                    "y": 0.5800430774688721,
+                    "z": -3.573719024658203
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 90.0,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Bottle_1",
+                "position": {
+                    "x": 4.723993301391602,
+                    "y": 0.0924026370048523,
+                    "z": 2.083737850189209
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 179.8826446533203,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Soap_Bar_1",
+                "position": {
+                    "x": 6.484192371368408,
+                    "y": 0.5717058777809143,
+                    "z": -5.154156684875488
+                },
+                "rotation": {
+                    "x": 0.03781206160783768,
+                    "y": 270.00030517578125,
+                    "z": 359.98016357421875
+                }
+            },
+            {
+                "objectName": "Fork_1",
+                "position": {
+                    "x": 10.146035194396973,
+                    "y": 0.5812268257141113,
+                    "z": -3.2759077548980713
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 90.0,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Fork_1 (1)",
+                "position": {
+                    "x": 4.917540550231934,
+                    "y": 0.9500042796134949,
+                    "z": -0.20820370316505432
+                },
+                "rotation": {
+                    "x": 0.34694916009902954,
+                    "y": 269.97686767578125,
+                    "z": 359.7974853515625
+                }
+            },
+            {
+                "objectName": "Ladle_1",
+                "position": {
+                    "x": 5.081988334655762,
+                    "y": 0.27840501070022583,
+                    "z": -3.03377103805542
+                },
+                "rotation": {
+                    "x": 0.0006076470017433167,
+                    "y": 90.00000762939453,
+                    "z": 9.962368494598195e-05
+                }
+            },
+            {
+                "objectName": "Remote_3",
+                "position": {
+                    "x": 7.14676570892334,
+                    "y": 1.0131803750991821,
+                    "z": 0.35726502537727356
+                },
+                "rotation": {
+                    "x": 0.08368539065122604,
+                    "y": 270.0010070800781,
+                    "z": 0.00022004703350830823
+                }
+            },
+            {
+                "objectName": "Cellphone_2",
+                "position": {
+                    "x": 8.144674301147461,
+                    "y": 0.8078280687332153,
+                    "z": 0.050529420375823975
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 89.99983215332031,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Egg_8",
+                "position": {
+                    "x": 4.962743759155273,
+                    "y": 0.12389868497848511,
+                    "z": 2.1617965698242188
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 179.8826446533203,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Spatula_1",
+                "position": {
+                    "x": 10.48580551147461,
+                    "y": 0.5863258838653564,
+                    "z": -3.573719024658203
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 90.0,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Knife_7",
+                "position": {
+                    "x": 6.949959754943848,
+                    "y": 0.9406693577766418,
+                    "z": 0.975602388381958
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 270.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Bowl_8",
+                "position": {
+                    "x": 4.857422351837158,
+                    "y": 0.9561224579811096,
+                    "z": 0.015020668506622314
+                },
+                "rotation": {
+                    "x": 3.365968223079108e-05,
+                    "y": 89.9999008178711,
+                    "z": -3.883401586790569e-05
+                }
+            },
+            {
+                "objectName": "Microwave_11",
+                "position": {
+                    "x": 7.132016181945801,
+                    "y": 0.901354193687439,
+                    "z": 0.39900869131088257
+                },
+                "rotation": {
+                    "x": 0.08368539065122604,
+                    "y": 270.0010070800781,
+                    "z": 0.00022004703350830823
+                }
+            },
+            {
+                "objectName": "Lettuce_11",
+                "position": {
+                    "x": 5.984365463256836,
+                    "y": 0.5361292362213135,
+                    "z": -5.377277374267578
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 6.830188340245513e-06,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Soap_Bottle_8",
+                "position": {
+                    "x": 5.360074043273926,
+                    "y": 0.5909246802330017,
+                    "z": -3.0294809341430664
+                },
+                "rotation": {
+                    "x": 0.0006076470017433167,
+                    "y": 90.00000762939453,
+                    "z": 9.962368494598195e-05
+                }
+            },
+            {
+                "objectName": "Bowl_4",
+                "position": {
+                    "x": 5.0864129066467285,
+                    "y": 0.9552955627441406,
+                    "z": -0.9008030295372009
+                },
+                "rotation": {
+                    "x": 3.365968223079108e-05,
+                    "y": 89.9999008178711,
+                    "z": -3.883401586790569e-05
+                }
+            },
+            {
+                "objectName": "Pepper_Shaker_1",
+                "position": {
+                    "x": 7.9744367599487305,
+                    "y": 0.8176363110542297,
+                    "z": 0.18147683143615723
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 89.99983215332031,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Cellphone_4",
+                "position": {
+                    "x": 6.58833646774292,
+                    "y": 0.5672234892845154,
+                    "z": -4.826306343078613
+                },
+                "rotation": {
+                    "x": 0.03634996339678764,
+                    "y": 330.0152893066406,
+                    "z": 0.01970505528151989
+                }
+            },
+            {
+                "objectName": "Potato_11",
+                "position": {
+                    "x": 4.895742416381836,
+                    "y": 0.6232799291610718,
+                    "z": -3.997758150100708
+                },
+                "rotation": {
+                    "x": 0.0006076470017433167,
+                    "y": 90.00000762939453,
+                    "z": 9.962368494598195e-05
+                }
+            },
+            {
+                "objectName": "Bread_7",
+                "position": {
+                    "x": 4.739885330200195,
+                    "y": 1.0276261568069458,
+                    "z": -0.7439009547233582
+                },
+                "rotation": {
+                    "x": -3.898099748766981e-05,
+                    "y": -0.00013543895329348743,
+                    "z": -3.56051059497986e-05
+                }
+            },
+            {
+                "objectName": "Pepper_Shaker_2",
+                "position": {
+                    "x": 7.106184005737305,
+                    "y": 1.7070014476776123,
+                    "z": 0.243057981133461
+                },
+                "rotation": {
+                    "x": 359.99365234375,
+                    "y": 0.0008929579053074121,
+                    "z": 0.006142985075712204
+                }
+            },
+            {
+                "objectName": "Spoon_1",
+                "position": {
+                    "x": 8.267755508422852,
+                    "y": 0.9416953921318054,
+                    "z": 0.9540753364562988
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 180.0,
+                    "z": -0.0
+                }
+            },
+            {
+                "objectName": "Spoon_1 (1)",
+                "position": {
+                    "x": 4.923018455505371,
+                    "y": 0.9485954642295837,
+                    "z": -0.13804717361927032
+                },
+                "rotation": {
+                    "x": 0.15942731499671936,
+                    "y": 269.96588134765625,
+                    "z": 359.4776916503906
+                }
+            },
+            {
+                "objectName": "Ottoman_210_Master",
+                "position": {
+                    "x": 5.672999858856201,
+                    "y": 0.006000041961669922,
+                    "z": -5.2870001792907715
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Coffee_Table_213_Master",
+                "position": {
+                    "x": 5.0819854736328125,
+                    "y": -0.007756412029266357,
+                    "z": -3.6140143871307373
+                },
+                "rotation": {
+                    "x": 0.0006076470017433167,
+                    "y": 90.00000762939453,
+                    "z": 9.962368494598195e-05
+                }
+            },
+            {
+                "objectName": "Dining_Table_21_2",
+                "position": {
+                    "x": 4.743000507354736,
+                    "y": 0.001754462718963623,
+                    "z": -0.5400000214576721
+                },
+                "rotation": {
+                    "x": -3.883395402226597e-05,
+                    "y": -1.0188263331656344e-05,
+                    "z": -3.36597440764308e-05
+                }
+            },
+            {
+                "objectName": "Side_Table_213_2_Master",
+                "position": {
+                    "x": 9.366998672485352,
+                    "y": 0.006089389324188232,
+                    "z": -4.079998016357422
+                },
+                "rotation": {
+                    "x": -2.348829548282083e-05,
+                    "y": -0.00012154846626799554,
+                    "z": -3.3075262763304636e-05
+                }
+            }
+        ],
+        "object_toggles": [],
+        "random_seed": 316275855,
+        "scene_num": 266
+    },
+    "task_id": "trial_T20230618_043944_194858",
+    "task_type": "pick_and_place_with_movable_recep",
+    "turk_annotations": {
+        "anns": [
+            {
+                "high_descs": [
+                    " walk out of the bedroom and into the coffeetable.",
+                    " go to the potato table",
+                    " pick up a potato from the bowl on the coffee table",
+                    " walk with the potato to the table and put the potato on the bowl.",
+                    " pick up potato on the bowl",
+                    " walk with the potato and plate to the coffeetable.",
+                    "Go to the coffee table and put down the bowl on the coffeetable."
+                ],
+                "task_desc": "Get Bowl and Potato on the CoffeeTable.",
+                "assignment_id": "3LPW2N6LKBABEBDY7WMBRV583H0U5P",
+                "vote1": [
+                    1,
+                    1,
+                    0
+                ],
+                "vote2": []
+            },
+            {
+                "high_descs": [
+                    "Turn back, walk straight and take left, move towards the brown coffeetable.",
+                    " Take the potato from the table.",
+                    "Turn left, and take right, move towards the bowl on the white table.",
+                    "Place the potato in the bowl on the table.",
+                    "Take the bowl contains potato from the table.",
+                    "Take left and turn right, move towards the brown coffeetable.",
+                    "Keep the bowl contains potato in the right top edge of the coffeetable."
+                ],
+                "task_desc": "To keep the potato in the bowl and keep it on the coffee table.",
+                "assignment_id": "32KTQ2V7RVNB2QA11K86C1TGD3D9MP",
+                "vote1": [
+                    1,
+                    0,
+                    1
+                ],
+                "vote2": []
+            },
+            {
+                "assignment_id": "336YQZE83B0F4BKVC9M0XGPSC5L5MU",
+                "high_descs": [
+                    "Turn around and go near the coffee table.",
+                    "Take the potato from the coffee table.",
+                    "Turn around and go near the bowl.",
+                    "Put the potato on the bowl.",
+                    "Then take the bowl with potato from the table.",
+                    "Turn around and go near the coffee table.",
+                    "Put the bowl with potato on the coffee table."
+                ],
+                "task_desc": "Placed the bowl with potato on the coffee table.",
+                "vote1": [
+                    1,
+                    1,
+                    1
+                ],
+                "vote2": []
+            }
+        ]
+    }
+}

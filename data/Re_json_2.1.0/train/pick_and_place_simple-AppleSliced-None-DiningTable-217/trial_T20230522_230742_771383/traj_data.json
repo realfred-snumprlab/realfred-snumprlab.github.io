@@ -1,0 +1,962 @@
+{
+    "images": [
+        {
+            "high_idx": 0,
+            "image_name": "000000000.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000001.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000002.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000003.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000004.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000005.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000006.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000007.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000008.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000009.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000010.png",
+            "low_idx": 0
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000011.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000012.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000013.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000014.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000015.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000016.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000017.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000018.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000019.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000020.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000021.png",
+            "low_idx": 1
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000022.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000023.png",
+            "low_idx": 2
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000024.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000025.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000026.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000027.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000028.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000029.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000030.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000031.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000032.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000033.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000034.png",
+            "low_idx": 3
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000035.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000036.png",
+            "low_idx": 4
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000037.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000038.png",
+            "low_idx": 5
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000039.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000040.png",
+            "low_idx": 6
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000041.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000042.png",
+            "low_idx": 7
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000043.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 0,
+            "image_name": "000000044.png",
+            "low_idx": 8
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000045.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000046.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000047.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000048.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000049.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000050.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000051.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000052.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000053.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000054.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000055.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000056.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000057.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000058.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 1,
+            "image_name": "000000059.png",
+            "low_idx": 9
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000060.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000061.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000062.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000063.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000064.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000065.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000066.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000067.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000068.png",
+            "low_idx": 10
+        },
+        {
+            "high_idx": 2,
+            "image_name": "000000069.png",
+            "low_idx": 10
+        }
+    ],
+    "pddl_params": {
+        "mrecep_target": "",
+        "object_sliced": true,
+        "object_target": "Apple",
+        "parent_target": "DiningTable",
+        "toggle_target": ""
+    },
+    "plan": {
+        "high_pddl": [
+            {
+                "discrete_action": {
+                    "action": "GotoLocation",
+                    "args": [
+                        "diningtable"
+                    ]
+                },
+                "high_idx": 0,
+                "planner_action": {
+                    "action": "GotoLocation",
+                    "location": "loc|17|-14|2|45"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": [
+                        "butterknife"
+                    ]
+                },
+                "high_idx": 1,
+                "planner_action": {
+                    "action": "PickupObject",
+                    "forceVisible": true,
+                    "objectId": "ButterKnife|+04.16|+00.95|-04.08",
+                    "receptacleObjectId": "DiningTable|+03.74|+00.05|-04.20"
+                }
+            },
+            {
+                "discrete_action": {
+                    "action": "SliceObject",
+                    "args": [
+                        "apple"
+                    ]
+                },
+                "high_idx": 2,
+                "planner_action": {
+                    "action": "SliceObject",
+                    "forceVisible": true,
+                    "objectId": "Apple|+04.22|+01.03|-04.20"
+                }
+            }
+        ],
+        "low_actions": [
+            {
+                "api_action": {
+                    "action": "LookDown"
+                },
+                "discrete_action": {
+                    "action": "LookDown_15",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "RotateLeft",
+                    "forceAction": true
+                },
+                "discrete_action": {
+                    "action": "RotateLeft_90",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "MoveAhead",
+                    "forceAction": true,
+                    "moveMagnitude": 0.25
+                },
+                "discrete_action": {
+                    "action": "MoveAhead_25",
+                    "args": {}
+                },
+                "high_idx": 0
+            },
+            {
+                "api_action": {
+                    "action": "PickupObject",
+                    "objectId": "ButterKnife|+04.16|+00.95|-04.08"
+                },
+                "discrete_action": {
+                    "action": "PickupObject",
+                    "args": {
+                        "bbox": [
+                            163,
+                            151,
+                            187,
+                            155
+                        ],
+                        "mask": [
+                            [
+                                45480,
+                                8
+                            ],
+                            [
+                                45776,
+                                12
+                            ],
+                            [
+                                46071,
+                                15
+                            ],
+                            [
+                                46364,
+                                15
+                            ],
+                            [
+                                46663,
+                                5
+                            ]
+                        ],
+                        "point": [
+                            175,
+                            153
+                        ]
+                    }
+                },
+                "high_idx": 1
+            },
+            {
+                "api_action": {
+                    "action": "SliceObject",
+                    "objectId": "Apple|+04.22|+01.03|-04.20"
+                },
+                "discrete_action": {
+                    "action": "SliceObject",
+                    "args": {
+                        "bbox": [
+                            145,
+                            121,
+                            165,
+                            142
+                        ],
+                        "mask": [
+                            [
+                                36451,
+                                9
+                            ],
+                            [
+                                36749,
+                                13
+                            ],
+                            [
+                                37048,
+                                15
+                            ],
+                            [
+                                37347,
+                                17
+                            ],
+                            [
+                                37647,
+                                17
+                            ],
+                            [
+                                37946,
+                                19
+                            ],
+                            [
+                                38246,
+                                19
+                            ],
+                            [
+                                38546,
+                                19
+                            ],
+                            [
+                                38845,
+                                21
+                            ],
+                            [
+                                39145,
+                                21
+                            ],
+                            [
+                                39445,
+                                20
+                            ],
+                            [
+                                39745,
+                                20
+                            ],
+                            [
+                                40045,
+                                20
+                            ],
+                            [
+                                40346,
+                                19
+                            ],
+                            [
+                                40646,
+                                18
+                            ],
+                            [
+                                40947,
+                                17
+                            ],
+                            [
+                                41247,
+                                16
+                            ],
+                            [
+                                41548,
+                                15
+                            ],
+                            [
+                                41849,
+                                13
+                            ],
+                            [
+                                42150,
+                                11
+                            ],
+                            [
+                                42452,
+                                7
+                            ],
+                            [
+                                42755,
+                                2
+                            ]
+                        ],
+                        "point": [
+                            155,
+                            131
+                        ]
+                    }
+                },
+                "high_idx": 2
+            }
+        ]
+    },
+    "scene": {
+        "dirty_and_empty": false,
+        "floor_plan": "FloorPlan217",
+        "init_action": {
+            "action": "TeleportFull",
+            "horizon": 30,
+            "position": {
+                "x": 4.5,
+                "y": 0.9010564088821411,
+                "z": -2.25
+            },
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "standing": true
+        },
+        "object_poses": [
+            {
+                "objectName": "Apple_25",
+                "position": {
+                    "x": 4.217573165893555,
+                    "y": 1.028016209602356,
+                    "z": -4.200949192047119
+                },
+                "rotation": {
+                    "x": 0.5338461995124817,
+                    "y": 0.03994410112500191,
+                    "z": 359.9732971191406
+                }
+            },
+            {
+                "objectName": "single bed",
+                "position": {
+                    "x": 0.10938999801874161,
+                    "y": -0.007000000216066837,
+                    "z": -5.370999813079834
+                },
+                "rotation": {
+                    "x": -0.0,
+                    "y": 0.0,
+                    "z": 0.0
+                }
+            },
+            {
+                "objectName": "Book_3",
+                "position": {
+                    "x": 1.2932372093200684,
+                    "y": 0.9977747797966003,
+                    "z": -6.141901016235352
+                },
+                "rotation": {
+                    "x": 359.987548828125,
+                    "y": 0.026874594390392303,
+                    "z": 0.05827875807881355
+                }
+            },
+            {
+                "objectName": "Bread_5",
+                "position": {
+                    "x": 4.486316204071045,
+                    "y": 1.030103087425232,
+                    "z": -4.300004482269287
+                },
+                "rotation": {
+                    "x": 0.6121627688407898,
+                    "y": 359.9066467285156,
+                    "z": 359.6376647949219
+                }
+            },
+            {
+                "objectName": "ButterKnife_1",
+                "position": {
+                    "x": 4.159214496612549,
+                    "y": 0.9483203291893005,
+                    "z": -4.0828399658203125
+                },
+                "rotation": {
+                    "x": 0.04938739910721779,
+                    "y": 78.01757049560547,
+                    "z": 90.93917083740234
+                }
+            },
+            {
+                "objectName": "desk chair",
+                "position": {
+                    "x": 1.9630393981933594,
+                    "y": -0.009808003902435303,
+                    "z": -5.823989391326904
+                },
+                "rotation": {
+                    "x": 359.9571228027344,
+                    "y": 179.99961853027344,
+                    "z": 359.8455810546875
+                }
+            },
+            {
+                "objectName": "CreditCard_4",
+                "position": {
+                    "x": 0.37599989771842957,
+                    "y": 0.6519753336906433,
+                    "z": -4.989999771118164
+                },
+                "rotation": {
+                    "x": 9.250199218513444e-05,
+                    "y": -1.2079004818588146e-06,
+                    "z": -0.00025062551139853895
+                }
+            },
+            {
+                "objectName": "desk",
+                "position": {
+                    "x": 1.5636729001998901,
+                    "y": 0.007107794284820557,
+                    "z": -6.092075824737549
+                },
+                "rotation": {
+                    "x": 359.929931640625,
+                    "y": 0.043536387383937836,
+                    "z": 0.07332785427570343
+                }
+            },
+            {
+                "objectName": "Desk_Lamp_7",
+                "position": {
+                    "x": 0.8935716152191162,
+                    "y": 0.9985848665237427,
+                    "z": -6.0102458000183105
+                },
+                "rotation": {
+                    "x": 359.714599609375,
+                    "y": 359.9797058105469,
+                    "z": 0.19038952887058258
+                }
+            },
+            {
+                "objectName": "Dining_Table_204_Master",
+                "position": {
+                    "x": 3.741419553756714,
+                    "y": 0.054263412952423096,
+                    "z": -4.195888996124268
+                },
+                "rotation": {
+                    "x": 0.1500149369239807,
+                    "y": 0.21592803299427032,
+                    "z": 0.052828121930360794
+                }
+            },
+            {
+                "objectName": "Fork_1",
+                "position": {
+                    "x": 4.37630558013916,
+                    "y": 0.9492917060852051,
+                    "z": -4.038121700286865
+                },
+                "rotation": {
+                    "x": 0.5529204607009888,
+                    "y": 0.7600648403167725,
+                    "z": 0.128371000289917
+                }
+            },
+            {
+                "objectName": "Microwave_20",
+                "position": {
+                    "x": 3.198751211166382,
+                    "y": 0.9474270343780518,
+                    "z": -4.102298259735107
+                },
+                "rotation": {
+                    "x": 0.675674557685852,
+                    "y": 359.9736328125,
+                    "z": 0.042169831693172455
+                }
+            },
+            {
+                "objectName": "Mug_3",
+                "position": {
+                    "x": 3.944538116455078,
+                    "y": 0.9483920335769653,
+                    "z": -4.2801127433776855
+                },
+                "rotation": {
+                    "x": 1.1623409986495972,
+                    "y": 0.10573828965425491,
+                    "z": 0.2733800709247589
+                }
+            },
+            {
+                "objectName": "Pencil_5",
+                "position": {
+                    "x": 1.4911082983016968,
+                    "y": 1.002802848815918,
+                    "z": -6.11842679977417
+                },
+                "rotation": {
+                    "x": 359.9616394042969,
+                    "y": 59.356536865234375,
+                    "z": 345.81866455078125
+                }
+            },
+            {
+                "objectName": "Plate_2",
+                "position": {
+                    "x": 4.540092945098877,
+                    "y": 0.9494125247001648,
+                    "z": -3.908808469772339
+                },
+                "rotation": {
+                    "x": 0.07828566431999207,
+                    "y": 0.1526477187871933,
+                    "z": 0.11878659576177597
+                }
+            },
+            {
+                "objectName": "Plate_7",
+                "position": {
+                    "x": 4.197652816772461,
+                    "y": 0.9481737613677979,
+                    "z": -4.248870372772217
+                },
+                "rotation": {
+                    "x": 0.2900734841823578,
+                    "y": 359.8743591308594,
+                    "z": 0.026956286281347275
+                }
+            },
+            {
+                "objectName": "Shelving",
+                "position": {
+                    "x": 4.5263895988464355,
+                    "y": -0.04271256923675537,
+                    "z": -0.869566798210144
+                },
+                "rotation": {
+                    "x": 0.2848659157752991,
+                    "y": 270.3595886230469,
+                    "z": 359.3260192871094
+                }
+            }
+        ],
+        "object_toggles": [],
+        "random_seed": 2437634248,
+        "scene_num": 217
+    },
+    "task_id": "trial_T20230522_230742_771383",
+    "task_type": "pick_and_place_simple",
+    "turk_annotations": {
+        "anns": [
+            {
+                "assignment_id": "3DI28L7YXQ0I45RZUOW5HI72RKFE1G",
+                "high_descs": [
+                    "walk around and reach diningtable",
+                    "pick up butterknife from diningtable",
+                    "cut apple in to two piece"
+                ],
+                "task_desc": "pick up butterknife from diningtable and cut apple in to two piece",
+                "vote1": [
+                    1,
+                    1
+                ],
+                "vote2": []
+            },
+            {
+                "assignment_id": "3LO69W1SUJZTEQRUTT4C101S27GGLO",
+                "high_descs": [
+                    "Turn around the left and move forward to the dining table.",
+                    "Take a butter knife from the dining table.",
+                    "Cut the apple in to two pieces using that knife"
+                ],
+                "task_desc": "Cut the apple using butter knife",
+                "vote1": [
+                    1,
+                    1
+                ],
+                "vote2": []
+            },
+            {
+                "assignment_id": "3AWETUDC9IERF6ETYIVOURP6WTIIZ3",
+                "high_descs": [
+                    "Turn back and walk towards the dining table",
+                    "Take a butter knife from the top of dining table",
+                    "Cut an apple into pieces which is on the plate"
+                ],
+                "task_desc": "Cut an apple into pieces",
+                "vote1": [
+                    1,
+                    1
+                ],
+                "vote2": []
+            }
+        ]
+    }
+}
